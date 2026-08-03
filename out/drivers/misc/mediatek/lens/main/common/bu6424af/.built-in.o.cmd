@@ -1,1 +1,0 @@
-cmd_drivers/misc/mediatek/lens/main/common/bu6424af/built-in.o :=   rm -f drivers/misc/mediatek/lens/main/common/bu6424af/built-in.o; llvm-ar rcSTPD drivers/misc/mediatek/lens/main/common/bu6424af/built-in.o drivers/misc/mediatek/lens/main/common/bu6424af/BU6424AF.o 

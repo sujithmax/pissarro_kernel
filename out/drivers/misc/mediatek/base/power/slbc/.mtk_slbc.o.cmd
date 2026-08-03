@@ -1,1 +1,0 @@
-cmd_drivers/misc/mediatek/base/power/slbc/mtk_slbc.o :=  rm -f drivers/misc/mediatek/base/power/slbc/mtk_slbc.o; llvm-ar rcSTPD drivers/misc/mediatek/base/power/slbc/mtk_slbc.o drivers/misc/mediatek/base/power/slbc/slbc.o 

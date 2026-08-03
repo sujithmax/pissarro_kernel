@@ -1,1 +1,0 @@
-cmd_drivers/misc/mediatek/teei/400/tee/soter/soter.o :=  rm -f drivers/misc/mediatek/teei/400/tee/soter/soter.o; llvm-ar rcSTPD drivers/misc/mediatek/teei/400/tee/soter/soter.o drivers/misc/mediatek/teei/400/tee/soter/core.o drivers/misc/mediatek/teei/400/tee/soter/call.o 

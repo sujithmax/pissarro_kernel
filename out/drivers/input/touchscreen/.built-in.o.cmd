@@ -1,1 +1,0 @@
-cmd_drivers/input/touchscreen/built-in.o :=   rm -f drivers/input/touchscreen/built-in.o; llvm-ar rcSTPD drivers/input/touchscreen/built-in.o drivers/input/touchscreen/of_touchscreen.o drivers/input/touchscreen/double_click.o drivers/input/touchscreen/goodix_gt9896/built-in.o drivers/input/touchscreen/xiaomi/built-in.o 

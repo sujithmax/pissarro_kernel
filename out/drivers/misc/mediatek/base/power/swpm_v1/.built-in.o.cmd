@@ -1,1 +1,0 @@
-cmd_drivers/misc/mediatek/base/power/swpm_v1/built-in.o :=   rm -f drivers/misc/mediatek/base/power/swpm_v1/built-in.o; llvm-ar rcSTPD drivers/misc/mediatek/base/power/swpm_v1/built-in.o drivers/misc/mediatek/base/power/swpm_v1/mt6877/built-in.o drivers/misc/mediatek/base/power/swpm_v1/mtk_swpm.o drivers/misc/mediatek/base/power/swpm_v1/mtk_swpm_common.o 

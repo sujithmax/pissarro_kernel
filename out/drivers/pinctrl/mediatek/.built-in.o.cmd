@@ -1,1 +1,0 @@
-cmd_drivers/pinctrl/mediatek/built-in.o :=   rm -f drivers/pinctrl/mediatek/built-in.o; llvm-ar rcSTPD drivers/pinctrl/mediatek/built-in.o drivers/pinctrl/mediatek/mtk-eint.o drivers/pinctrl/mediatek/pinctrl-paris.o drivers/pinctrl/mediatek/pinctrl-mtk-common-v2.o drivers/pinctrl/mediatek/pinctrl-mtk-common-v2_debug.o drivers/pinctrl/mediatek/pinctrl-mt6877.o 

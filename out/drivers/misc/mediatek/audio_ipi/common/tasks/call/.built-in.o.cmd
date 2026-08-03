@@ -1,1 +1,0 @@
-cmd_drivers/misc/mediatek/audio_ipi/common/tasks/call/built-in.o :=   rm -f drivers/misc/mediatek/audio_ipi/common/tasks/call/built-in.o; llvm-ar rcSTPD drivers/misc/mediatek/audio_ipi/common/tasks/call/built-in.o drivers/misc/mediatek/audio_ipi/common/tasks/call/audio_ipi_client_phone_call.o 

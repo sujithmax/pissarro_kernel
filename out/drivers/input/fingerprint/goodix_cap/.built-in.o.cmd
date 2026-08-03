@@ -1,1 +1,0 @@
-cmd_drivers/input/fingerprint/goodix_cap/built-in.o :=   rm -f drivers/input/fingerprint/goodix_cap/built-in.o; llvm-ar rcSTPD drivers/input/fingerprint/goodix_cap/built-in.o drivers/input/fingerprint/goodix_cap/gf_spi_tee.o drivers/input/fingerprint/goodix_cap/gf_spi_factory.o 

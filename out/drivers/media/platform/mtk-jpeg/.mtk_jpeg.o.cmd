@@ -1,1 +1,0 @@
-cmd_drivers/media/platform/mtk-jpeg/mtk_jpeg.o :=  rm -f drivers/media/platform/mtk-jpeg/mtk_jpeg.o; llvm-ar rcSTPD drivers/media/platform/mtk-jpeg/mtk_jpeg.o drivers/media/platform/mtk-jpeg/mtk_jpeg_core.o drivers/media/platform/mtk-jpeg/mtk_jpeg_enc_hw.o drivers/media/platform/mtk-jpeg/mtk_jpeg_dec_hw.o drivers/media/platform/mtk-jpeg/mtk_jpeg_dec_parse.o 

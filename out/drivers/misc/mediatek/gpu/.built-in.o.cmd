@@ -1,1 +1,0 @@
-cmd_drivers/misc/mediatek/gpu/built-in.o :=   rm -f drivers/misc/mediatek/gpu/built-in.o; llvm-ar rcSTPD drivers/misc/mediatek/gpu/built-in.o drivers/misc/mediatek/gpu/ged/built-in.o drivers/misc/mediatek/gpu/hal/built-in.o drivers/misc/mediatek/gpu/gpu_mali/built-in.o drivers/misc/mediatek/gpu/gpu_bm/built-in.o 

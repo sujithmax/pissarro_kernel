@@ -1,1 +1,0 @@
-cmd_drivers/misc/mediatek/lpm/modules/debug/built-in.o :=   rm -f drivers/misc/mediatek/lpm/modules/debug/built-in.o; llvm-ar rcSTPD drivers/misc/mediatek/lpm/modules/debug/built-in.o drivers/misc/mediatek/lpm/modules/debug/common/built-in.o drivers/misc/mediatek/lpm/modules/debug/mt6877/built-in.o 

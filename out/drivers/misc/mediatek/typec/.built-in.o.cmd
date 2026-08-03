@@ -1,1 +1,0 @@
-cmd_drivers/misc/mediatek/typec/built-in.o :=   rm -f drivers/misc/mediatek/typec/built-in.o; llvm-ar rcSTPD drivers/misc/mediatek/typec/built-in.o drivers/misc/mediatek/typec/tcpc_pissarro/built-in.o 

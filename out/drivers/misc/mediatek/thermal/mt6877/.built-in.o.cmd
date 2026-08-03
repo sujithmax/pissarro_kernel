@@ -1,1 +1,0 @@
-cmd_drivers/misc/mediatek/thermal/mt6877/built-in.o :=   rm -f drivers/misc/mediatek/thermal/mt6877/built-in.o; llvm-ar rcSTPD drivers/misc/mediatek/thermal/mt6877/built-in.o drivers/misc/mediatek/thermal/mt6877/src/built-in.o 

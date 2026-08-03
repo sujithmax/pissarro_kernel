@@ -1,1 +1,0 @@
-cmd_drivers/misc/mediatek/connectivity/fmradio/built-in.o :=   rm -f drivers/misc/mediatek/connectivity/fmradio/built-in.o; llvm-ar rcSTPD drivers/misc/mediatek/connectivity/fmradio/built-in.o drivers/misc/mediatek/connectivity/fmradio/fmradio_drv_connac2x.o drivers/misc/mediatek/connectivity/fmradio/dummy.o 

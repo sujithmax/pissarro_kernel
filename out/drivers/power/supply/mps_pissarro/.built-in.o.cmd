@@ -1,1 +1,0 @@
-cmd_drivers/power/supply/mps_pissarro/built-in.o :=   rm -f drivers/power/supply/mps_pissarro/built-in.o; llvm-ar rcSTPD drivers/power/supply/mps_pissarro/built-in.o drivers/power/supply/mps_pissarro/mp2762.o 

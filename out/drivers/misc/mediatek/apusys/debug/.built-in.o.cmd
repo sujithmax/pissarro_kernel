@@ -1,1 +1,0 @@
-cmd_drivers/misc/mediatek/apusys/debug/built-in.o :=   rm -f drivers/misc/mediatek/apusys/debug/built-in.o; llvm-ar rcSTPD drivers/misc/mediatek/apusys/debug/built-in.o drivers/misc/mediatek/apusys/debug/debug.o 

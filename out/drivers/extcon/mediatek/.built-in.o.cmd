@@ -1,1 +1,0 @@
-cmd_drivers/extcon/mediatek/built-in.o :=   rm -f drivers/extcon/mediatek/built-in.o; llvm-ar rcSTPD drivers/extcon/mediatek/built-in.o drivers/extcon/mediatek/extcon_usb.o drivers/extcon/mediatek/boost_manager_pissarro.o drivers/extcon/mediatek/usb-tcpc.o drivers/extcon/mediatek/usb_dual_role.o 

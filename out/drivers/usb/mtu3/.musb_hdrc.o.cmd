@@ -1,1 +1,0 @@
-cmd_drivers/usb/mtu3/musb_hdrc.o :=  rm -f drivers/usb/mtu3/musb_hdrc.o; llvm-ar rcSTPD drivers/usb/mtu3/musb_hdrc.o drivers/usb/mtu3/mtu3_plat_v2.o drivers/usb/mtu3/mtu3_host_v2.o drivers/usb/mtu3/mtu3_core.o drivers/usb/mtu3/mtu3_gadget_ep0.o drivers/usb/mtu3/mtu3_gadget.o drivers/usb/mtu3/mtu3_qmu.o drivers/usb/mtu3/mtu3_dr_v2.o 

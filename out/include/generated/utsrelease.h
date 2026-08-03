@@ -1,1 +1,0 @@
-#define UTS_RELEASE "4.14.336-g8b78cb0b5e73"

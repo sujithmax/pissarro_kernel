@@ -1,1 +1,0 @@
-cmd_drivers/misc/mediatek/cameraisp/fdvt/built-in.o :=   rm -f drivers/misc/mediatek/cameraisp/fdvt/built-in.o; llvm-ar rcSTPD drivers/misc/mediatek/cameraisp/fdvt/built-in.o drivers/misc/mediatek/cameraisp/fdvt/fdvt_dummy.o drivers/misc/mediatek/cameraisp/fdvt/5.1/built-in.o 

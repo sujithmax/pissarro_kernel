@@ -1,1 +1,0 @@
-cmd_drivers/misc/mediatek/base/power/srclken_rc_v1/built-in.o :=   rm -f drivers/misc/mediatek/base/power/srclken_rc_v1/built-in.o; llvm-ar rcSTPD drivers/misc/mediatek/base/power/srclken_rc_v1/built-in.o drivers/misc/mediatek/base/power/srclken_rc_v1/mtk_srclken_rc.o drivers/misc/mediatek/base/power/srclken_rc_v1/mt6853/built-in.o 

@@ -1,1 +1,0 @@
-cmd_drivers/input/keyboard/mediatek/mt6853/built-in.o :=   rm -f drivers/input/keyboard/mediatek/mt6853/built-in.o; llvm-ar rcSTPD drivers/input/keyboard/mediatek/mt6853/built-in.o drivers/input/keyboard/mediatek/mt6853/hal_kpd.o 

@@ -1,1 +1,0 @@
-cmd_drivers/misc/mediatek/trusted_mem/mtee_impl.o :=  rm -f drivers/misc/mediatek/trusted_mem/mtee_impl.o; llvm-ar rcSTPD drivers/misc/mediatek/trusted_mem/mtee_impl.o drivers/misc/mediatek/trusted_mem/mtee_impl/mtee_ops.o drivers/misc/mediatek/trusted_mem/mtee_impl/mtee_invoke.o 

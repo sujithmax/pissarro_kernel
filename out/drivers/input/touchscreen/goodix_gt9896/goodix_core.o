@@ -1,9 +1,0 @@
-!<thin>
-//                                              54        `
-goodix_ts_i2c.o/
-goodix_ts_core.o/
-goodix_cfg_bin.o/
-
-/0              0           0     0     644     57080     `
-/17             0           0     0     644     98952     `
-/35             0           0     0     644     24168     `

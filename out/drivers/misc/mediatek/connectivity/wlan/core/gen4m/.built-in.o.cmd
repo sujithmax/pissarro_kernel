@@ -1,1 +1,0 @@
-cmd_drivers/misc/mediatek/connectivity/wlan/core/gen4m/built-in.o :=   rm -f drivers/misc/mediatek/connectivity/wlan/core/gen4m/built-in.o; llvm-ar rcSTPD drivers/misc/mediatek/connectivity/wlan/core/gen4m/built-in.o drivers/misc/mediatek/connectivity/wlan/core/gen4m/wlan_drv_gen4m.o 

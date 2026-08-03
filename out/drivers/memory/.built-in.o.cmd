@@ -1,1 +1,0 @@
-cmd_drivers/memory/built-in.o :=   rm -f drivers/memory/built-in.o; llvm-ar rcSTPD drivers/memory/built-in.o drivers/memory/mtk-smi.o drivers/memory/mtk-smi-debug.o drivers/memory/mediatek/built-in.o 

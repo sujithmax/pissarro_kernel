@@ -1,1 +1,0 @@
-cmd_drivers/misc/mediatek/base/power/dvfsrc/built-in.o :=   rm -f drivers/misc/mediatek/base/power/dvfsrc/built-in.o; llvm-ar rcSTPD drivers/misc/mediatek/base/power/dvfsrc/built-in.o drivers/misc/mediatek/base/power/dvfsrc/dvfsrc-boost-driver.o 

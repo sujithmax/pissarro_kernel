@@ -1,1 +1,0 @@
-cmd_sound/soc/codecs/cs35l41/built-in.o :=   rm -f sound/soc/codecs/cs35l41/built-in.o; llvm-ar rcSTPD sound/soc/codecs/cs35l41/built-in.o sound/soc/codecs/cs35l41/cs35l41.o sound/soc/codecs/cs35l41/cs35l41-tables.o sound/soc/codecs/cs35l41/cs35l41-i2c.o sound/soc/codecs/cs35l41/wm_adsp.o 

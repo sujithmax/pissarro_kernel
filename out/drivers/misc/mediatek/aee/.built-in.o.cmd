@@ -1,1 +1,0 @@
-cmd_drivers/misc/mediatek/aee/built-in.o :=   rm -f drivers/misc/mediatek/aee/built-in.o; llvm-ar rcSTPD drivers/misc/mediatek/aee/built-in.o drivers/misc/mediatek/aee/common/built-in.o drivers/misc/mediatek/aee/mrdump/built-in.o 

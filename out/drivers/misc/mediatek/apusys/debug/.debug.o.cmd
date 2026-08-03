@@ -1,1 +1,0 @@
-cmd_drivers/misc/mediatek/apusys/debug/debug.o :=  rm -f drivers/misc/mediatek/apusys/debug/debug.o; llvm-ar rcSTPD drivers/misc/mediatek/apusys/debug/debug.o drivers/misc/mediatek/apusys/debug/debug_driver.o drivers/misc/mediatek/apusys/debug/dump_core.o drivers/misc/mediatek/apusys/debug/secure_perf.o 

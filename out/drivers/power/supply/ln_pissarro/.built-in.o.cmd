@@ -1,1 +1,0 @@
-cmd_drivers/power/supply/ln_pissarro/built-in.o :=   rm -f drivers/power/supply/ln_pissarro/built-in.o; llvm-ar rcSTPD drivers/power/supply/ln_pissarro/built-in.o drivers/power/supply/ln_pissarro/ln8000_charger.o 

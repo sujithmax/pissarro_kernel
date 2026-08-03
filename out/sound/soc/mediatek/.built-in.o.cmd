@@ -1,1 +1,0 @@
-cmd_sound/soc/mediatek/built-in.o :=   rm -f sound/soc/mediatek/built-in.o; llvm-ar rcSTPD sound/soc/mediatek/built-in.o sound/soc/mediatek/scp_vow/built-in.o sound/soc/mediatek/scp_ultra/built-in.o sound/soc/mediatek/audio_dsp/built-in.o sound/soc/mediatek/common_int/built-in.o sound/soc/mediatek/common/built-in.o sound/soc/mediatek/mt6877/built-in.o 

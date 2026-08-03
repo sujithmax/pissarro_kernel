@@ -1,1 +1,0 @@
-cmd_drivers/misc/mediatek/mdp/mt6853/built-in.o :=   rm -f drivers/misc/mediatek/mdp/mt6853/built-in.o; llvm-ar rcSTPD drivers/misc/mediatek/mdp/mt6853/built-in.o drivers/misc/mediatek/mdp/mt6853/mdp.o 

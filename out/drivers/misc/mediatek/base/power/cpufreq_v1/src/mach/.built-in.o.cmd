@@ -1,1 +1,0 @@
-cmd_drivers/misc/mediatek/base/power/cpufreq_v1/src/mach/built-in.o :=   rm -f drivers/misc/mediatek/base/power/cpufreq_v1/src/mach/built-in.o; llvm-ar rcSTPD drivers/misc/mediatek/base/power/cpufreq_v1/src/mach/built-in.o drivers/misc/mediatek/base/power/cpufreq_v1/src/mach/mt6877/built-in.o 

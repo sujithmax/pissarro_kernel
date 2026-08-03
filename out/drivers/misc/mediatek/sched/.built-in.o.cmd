@@ -1,1 +1,0 @@
-cmd_drivers/misc/mediatek/sched/built-in.o :=   rm -f drivers/misc/mediatek/sched/built-in.o; llvm-ar rcSTPD drivers/misc/mediatek/sched/built-in.o drivers/misc/mediatek/sched/cputopo.o drivers/misc/mediatek/sched/sched_ctl.o drivers/misc/mediatek/sched/eas_plus.o 

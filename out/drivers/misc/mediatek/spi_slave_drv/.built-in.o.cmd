@@ -1,1 +1,0 @@
-cmd_drivers/misc/mediatek/spi_slave_drv/built-in.o :=   rm -f drivers/misc/mediatek/spi_slave_drv/built-in.o; llvm-ar rcSTPD drivers/misc/mediatek/spi_slave_drv/built-in.o drivers/misc/mediatek/spi_slave_drv/spi_slave.o 

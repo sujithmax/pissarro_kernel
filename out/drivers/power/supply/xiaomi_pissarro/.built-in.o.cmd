@@ -1,1 +1,0 @@
-cmd_drivers/power/supply/xiaomi_pissarro/built-in.o :=   rm -f drivers/power/supply/xiaomi_pissarro/built-in.o; llvm-ar rcSTPD drivers/power/supply/xiaomi_pissarro/built-in.o drivers/power/supply/xiaomi_pissarro/xmusb350.o drivers/power/supply/xiaomi_pissarro/pd_cp_manager.o drivers/power/supply/xiaomi_pissarro/qc_cp_manager.o 

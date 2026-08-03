@@ -1,1 +1,0 @@
-cmd_drivers/usb/mtu3/mt6877/built-in.o :=   rm -f drivers/usb/mtu3/mt6877/built-in.o; llvm-ar rcSTPD drivers/usb/mtu3/mt6877/built-in.o drivers/usb/mtu3/mt6877/mtu3_hal.o drivers/usb/mtu3/mt6877/mtu3_phy_hal.o drivers/usb/mtu3/mt6877/mtu3_sleep.o drivers/usb/mtu3/mt6877/mtu3_phy_debugfs.o 

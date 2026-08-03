@@ -1,1 +1,0 @@
-cmd_drivers/misc/mediatek/rt-regmap/built-in.o :=   rm -f drivers/misc/mediatek/rt-regmap/built-in.o; llvm-ar rcSTPD drivers/misc/mediatek/rt-regmap/built-in.o drivers/misc/mediatek/rt-regmap/rt-regmap.o 

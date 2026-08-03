@@ -1,1 +1,0 @@
-cmd_drivers/misc/mediatek/base/power/power_throttling/built-in.o :=   rm -f drivers/misc/mediatek/base/power/power_throttling/built-in.o; llvm-ar rcSTPD drivers/misc/mediatek/base/power/power_throttling/built-in.o drivers/misc/mediatek/base/power/power_throttling/mtk_md_power_throttling.o 

@@ -1,1 +1,0 @@
-cmd_drivers/mmc/host/mediatek/ComboA/built-in.o :=   rm -f drivers/mmc/host/mediatek/ComboA/built-in.o; llvm-ar rcSTPD drivers/mmc/host/mediatek/ComboA/built-in.o drivers/mmc/host/mediatek/ComboA/msdc.o drivers/mmc/host/mediatek/ComboA/sw-cqhci-crypto.o 

@@ -1,1 +1,0 @@
-cmd_drivers/misc/mediatek/sspm/mt6853/built-in.o :=   rm -f drivers/misc/mediatek/sspm/mt6853/built-in.o; llvm-ar rcSTPD drivers/misc/mediatek/sspm/mt6853/built-in.o drivers/misc/mediatek/sspm/mt6853/../v2/built-in.o drivers/misc/mediatek/sspm/mt6853/sspm_emi_mpu.o drivers/misc/mediatek/sspm/mt6853/sspm_ipi_timeout_cb.o 

@@ -1,1 +1,0 @@
-cmd_drivers/input/touchscreen/xiaomi/built-in.o :=   rm -f drivers/input/touchscreen/xiaomi/built-in.o; llvm-ar rcSTPD drivers/input/touchscreen/xiaomi/built-in.o drivers/input/touchscreen/xiaomi/xiaomi_touch.o 

@@ -1,1 +1,0 @@
-cmd_drivers/misc/mediatek/eccci/hif/built-in.o :=   rm -f drivers/misc/mediatek/eccci/hif/built-in.o; llvm-ar rcSTPD drivers/misc/mediatek/eccci/hif/built-in.o drivers/misc/mediatek/eccci/hif/ccci_hif_all.o 

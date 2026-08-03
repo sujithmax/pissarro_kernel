@@ -1,1 +1,0 @@
-cmd_drivers/misc/mediatek/debug_tracer/bus_tracer/built-in.o :=   rm -f drivers/misc/mediatek/debug_tracer/bus_tracer/built-in.o; llvm-ar rcSTPD drivers/misc/mediatek/debug_tracer/bus_tracer/built-in.o drivers/misc/mediatek/debug_tracer/bus_tracer/bus_tracer_interface.o drivers/misc/mediatek/debug_tracer/bus_tracer/v1/built-in.o 

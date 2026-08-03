@@ -1,1 +1,0 @@
-cmd_drivers/misc/mediatek/pseudo_m4u/built-in.o :=   rm -f drivers/misc/mediatek/pseudo_m4u/built-in.o; llvm-ar rcSTPD drivers/misc/mediatek/pseudo_m4u/built-in.o drivers/misc/mediatek/pseudo_m4u/pseudo_m4u_v2.o drivers/misc/mediatek/pseudo_m4u/pseudo_m4u_debug.o drivers/misc/mediatek/pseudo_m4u/pseudo_m4u_sec.o drivers/misc/mediatek/pseudo_m4u/pseudo_m4u_gz_sec.o 

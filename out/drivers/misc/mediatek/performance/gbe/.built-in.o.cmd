@@ -1,1 +1,0 @@
-cmd_drivers/misc/mediatek/performance/gbe/built-in.o :=   rm -f drivers/misc/mediatek/performance/gbe/built-in.o; llvm-ar rcSTPD drivers/misc/mediatek/performance/gbe/built-in.o drivers/misc/mediatek/performance/gbe/gbe1_main.o drivers/misc/mediatek/performance/gbe/gbe2_main.o drivers/misc/mediatek/performance/gbe/gbe_common.o drivers/misc/mediatek/performance/gbe/gbe_sysfs.o 

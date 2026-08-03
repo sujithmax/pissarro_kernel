@@ -1,0 +1,27 @@
+# Build output
+out/
+
+# Kernel ZIPs
+*.zip
+
+# Kernel build artifacts
+*.o
+*.ko
+*.mod
+*.mod.c
+*.cmd
+*.tmp
+*.log
+*.order
+*.symvers
+
+Module.symvers
+modules.order
+System.map
+vmlinux
+vmlinux.o
+
+Image
+Image.gz
+Image.gz-dtb
+Image.lz4

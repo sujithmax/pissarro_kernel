@@ -1,1 +1,0 @@
-cmd_drivers/usb/mtu3/built-in.o :=   rm -f drivers/usb/mtu3/built-in.o; llvm-ar rcSTPD drivers/usb/mtu3/built-in.o drivers/usb/mtu3/mt6877/built-in.o drivers/usb/mtu3/mtu3_debugfs_v2.o drivers/usb/mtu3/musb_hdrc.o 

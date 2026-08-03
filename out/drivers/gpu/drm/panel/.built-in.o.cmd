@@ -1,1 +1,0 @@
-cmd_drivers/gpu/drm/panel/built-in.o :=   rm -f drivers/gpu/drm/panel/built-in.o; llvm-ar rcSTPD drivers/gpu/drm/panel/built-in.o drivers/gpu/drm/panel/panel-k16-38-0c-0a-dsc-vdo.o drivers/gpu/drm/panel/panel-k16-38-0e-0b-dsc-vdo.o 

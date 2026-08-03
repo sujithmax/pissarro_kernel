@@ -1,1 +1,0 @@
-cmd_drivers/misc/mediatek/eccci/mt6853/ccci.o :=  rm -f drivers/misc/mediatek/eccci/mt6853/ccci.o; llvm-ar rcSTPD drivers/misc/mediatek/eccci/mt6853/ccci.o drivers/misc/mediatek/eccci/mt6853/ccci_platform.o drivers/misc/mediatek/eccci/mt6853/ap_md_reg_dump_6877.o drivers/misc/mediatek/eccci/mt6853/md_sys1_platform.o 
