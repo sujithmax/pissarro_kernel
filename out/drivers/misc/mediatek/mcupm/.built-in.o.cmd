@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/mcupm/built-in.o :=   rm -f drivers/misc/mediatek/mcupm/built-in.o; llvm-ar rcSTPD drivers/misc/mediatek/mcupm/built-in.o drivers/misc/mediatek/mcupm/mt6853/built-in.o 

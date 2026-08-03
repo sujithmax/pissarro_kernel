@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/imgsensor/src/built-in.o :=   rm -f drivers/misc/mediatek/imgsensor/src/built-in.o; llvm-ar rcSTPD drivers/misc/mediatek/imgsensor/src/built-in.o drivers/misc/mediatek/imgsensor/src/mt6853/built-in.o 

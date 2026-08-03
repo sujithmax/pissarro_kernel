@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/flashlight/built-in.o :=   rm -f drivers/misc/mediatek/flashlight/built-in.o; llvm-ar rcSTPD drivers/misc/mediatek/flashlight/built-in.o drivers/misc/mediatek/flashlight/flashlight.o drivers/misc/mediatek/flashlight/flashlights-mt6360.o 

@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/vow/ver02/mtk-vow.o :=  rm -f drivers/misc/mediatek/vow/ver02/mtk-vow.o; llvm-ar rcSTPD drivers/misc/mediatek/vow/ver02/mtk-vow.o drivers/misc/mediatek/vow/ver02/vow.o drivers/misc/mediatek/vow/ver02/vow_scp.o 

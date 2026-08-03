@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/elliptic/built-in.o :=   rm -f drivers/misc/mediatek/elliptic/built-in.o; llvm-ar rcSTPD drivers/misc/mediatek/elliptic/built-in.o drivers/misc/mediatek/elliptic/elliptic.o drivers/misc/mediatek/elliptic/elliptic_mixer_controls.o drivers/misc/mediatek/elliptic/io_modules/mtk/elliptic_data_mtk_io.o drivers/misc/mediatek/elliptic/elliptic_sysfs.o 

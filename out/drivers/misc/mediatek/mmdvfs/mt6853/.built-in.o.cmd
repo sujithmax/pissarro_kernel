@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/mmdvfs/mt6853/built-in.o :=   rm -f drivers/misc/mediatek/mmdvfs/mt6853/built-in.o; llvm-ar rcSTPD drivers/misc/mediatek/mmdvfs/mt6853/built-in.o drivers/misc/mediatek/mmdvfs/mt6853/mmdvfs_plat.o 

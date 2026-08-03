@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/cameraisp/pda/built-in.o :=   rm -f drivers/misc/mediatek/cameraisp/pda/built-in.o; llvm-ar rcSTPD drivers/misc/mediatek/cameraisp/pda/built-in.o drivers/misc/mediatek/cameraisp/pda/camera_pda_dummy.o drivers/misc/mediatek/cameraisp/pda/isp_6s/camera_pda.o 

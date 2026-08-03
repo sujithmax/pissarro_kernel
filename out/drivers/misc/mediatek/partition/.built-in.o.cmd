@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/partition/built-in.o :=   rm -f drivers/misc/mediatek/partition/built-in.o; llvm-ar rcSTPD drivers/misc/mediatek/partition/built-in.o drivers/misc/mediatek/partition/mtk_partition.o 

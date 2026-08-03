@@ -1,0 +1,81 @@
+!<thin>
+//                                              1146      `
+scp_vow/mt6853/mtk-scp-vow-platform.o/
+scp_vow/mtk-scp-vow-common.o/
+scp_ultra/ultra_ipi/ultra_ipi.o/
+scp_ultra/mtk-scp-ultra-common.o/
+scp_ultra/mtk-scp-ultra-pcm.o/
+scp_ultra/mtk-scp-ultra-mem-control.o/
+scp_ultra/mtk-scp-ultra_dump.o/
+scp_ultra/mtk-scp-ultra-platform-driver.o/
+audio_dsp/mt6853/dsp-platform-mem-control.o/
+audio_dsp/audio_buf.o/
+audio_dsp/mtk-dsp-dai.o/
+audio_dsp/mtk-dsp-pcm.o/
+audio_dsp/mtk-dsp-common.o/
+audio_dsp/mtk-dsp-platform-driver.o/
+audio_dsp/mtk-dsp-mem-control.o/
+common_int/mtk-auddrv-devtree-parser.o/
+common_int/mtk-soc-offload-common.o/
+common/mtk-mmap-ion.o/
+common/mtk-afe-platform-driver.o/
+common/mtk-afe-fe-dai.o/
+common/mtk-sram-manager.o/
+common/mtk-sp-pcm-ops.o/
+common/mtk-afe-debug.o/
+common/mtk-sp-spk-amp.o/
+common/mtk-usip.o/
+common/mtk-btcvsd.o/
+mt6877/mt6877-afe-pcm.o/
+mt6877/mt6877-afe-clk.o/
+mt6877/mt6877-afe-gpio.o/
+mt6877/mt6877-dai-adda.o/
+mt6877/mt6877-afe-control.o/
+mt6877/mt6877-dai-i2s.o/
+mt6877/mt6877-dai-hw-gain.o/
+mt6877/mt6877-dai-src.o/
+mt6877/mt6877-dai-pcm.o/
+mt6877/mt6877-dai-hostless.o/
+mt6877/mt6877-misc-control.o/
+mt6877/mt6877-reg-autogen.o/
+mt6877/mt6877-mt6359.o/
+
+/0              0           0     0     644     880       `
+/39             0           0     0     644     2608      `
+/69             0           0     0     644     7248      `
+/102            0           0     0     644     5224      `
+/136            0           0     0     644     5120      `
+/167            0           0     0     644     6520      `
+/206            0           0     0     644     16176     `
+/238            0           0     0     644     17880     `
+/281            0           0     0     644     6184      `
+/326            0           0     0     644     14480     `
+/349            0           0     0     644     6320      `
+/374            0           0     0     644     9320      `
+/399            0           0     0     644     14960     `
+/427            0           0     0     644     45616     `
+/464            0           0     0     644     23568     `
+/497            0           0     0     644     5832      `
+/537            0           0     0     644     22616     `
+/574            0           0     0     644     4896      `
+/597            0           0     0     644     7488      `
+/631            0           0     0     644     35592     `
+/656            0           0     0     644     6072      `
+/683            0           0     0     644     1440      `
+/708            0           0     0     644     4296      `
+/732            0           0     0     644     22112     `
+/757            0           0     0     644     9680      `
+/776            0           0     0     644     28040     `
+/797            0           0     0     644     115984    `
+/822            0           0     0     644     20440     `
+/847            0           0     0     644     7408      `
+/873            0           0     0     644     71056     `
+/899            0           0     0     644     10696     `
+/928            0           0     0     644     136568    `
+/953            0           0     0     644     11384     `
+/982            0           0     0     644     30888     `
+/1007           0           0     0     644     24968     `
+/1032           0           0     0     644     20072     `
+/1062           0           0     0     644     26936     `
+/1092           0           0     0     644     37968     `
+/1121           0           0     0     644     47608     `

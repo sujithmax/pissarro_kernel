@@ -1,0 +1,10 @@
+!<thin>
+//                                              124       `
+common/connectivity_build_in_adapter.o/
+common/wmt_build_in_adapter.o/
+power_throttling/adapter.o/
+power_throttling/core.o/
+/0              0           0     0     644     30360     `
+/40             0           0     0     644     20136     `
+/71             0           0     0     644     26208     `
+/99             0           0     0     644     14880     `

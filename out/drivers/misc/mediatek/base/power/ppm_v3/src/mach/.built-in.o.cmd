@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/base/power/ppm_v3/src/mach/built-in.o :=   rm -f drivers/misc/mediatek/base/power/ppm_v3/src/mach/built-in.o; llvm-ar rcSTPD drivers/misc/mediatek/base/power/ppm_v3/src/mach/built-in.o drivers/misc/mediatek/base/power/ppm_v3/src/mach/mt6853/built-in.o 

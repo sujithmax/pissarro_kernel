@@ -1,0 +1,197 @@
+!<thin>
+//                                              3382      `
+power/2.0/apusys_power_driver.o/
+power/2.0/apusys_power_ctl.o/
+power/2.0/apusys_power_debug.o/
+power/2.0/mt6877/hal_config_power.o/
+power/2.0/mt6877/apu_power_regulator.o/
+power/2.0/mt6877/apu_power_clock.o/
+power/2.0/mt6877/apusys_power_cust.o/
+power/2.0/mt6877/apu_power_table.o/
+power/2.0/mt6877/apu_platform_resource.o/
+power/2.0/mt6877/apu_platform_debug.o/
+power/2.0/mt6877/apusys_power_rule_check.o/
+power/2.0/mt6877/apu_power_tag.o/
+reviser/1.0/reviser_drv.o/
+reviser/1.0/reviser_hw.o/
+reviser/1.0/reviser_mem.o/
+reviser/1.0/reviser_mem_mgt.o/
+reviser/1.0/reviser_dbg.o/
+reviser/1.0/reviser_export.o/
+reviser/mt6877/reviser_reg.o/
+mnoc/1.0/mnoc_drv.o/
+mnoc/1.0/mnoc_dbg.o/
+mnoc/1.0/mnoc_qos.o/
+mnoc/1.0/mnoc_pmu.o/
+mnoc/1.0/mnoc_qos_sys.o/
+mnoc/mt6877/mnoc_hw.o/
+midware/1.1/mdw_drv.o/
+midware/1.1/mdw_usr.o/
+midware/1.1/mdw_dbg.o/
+midware/1.1/mdw_rsc.o/
+midware/1.1/mdw_cmn.o/
+midware/1.1/mdw_cmd.o/
+midware/1.1/mdw_sched.o/
+midware/1.1/mdw_queue.o/
+midware/1.1/mdw_queue_norm.o/
+midware/1.1/mdw_queue_deadline.o/
+midware/1.1/mdw_dispr.o/
+midware/1.1/mdw_mem.o/
+midware/1.1/mdw_mem_ion.o/
+midware/1.1/mdw_fence.o/
+midware/1.1/mdw_sysfs.o/
+util/apusys_trace.o/
+sample/1.0/sample_drv.o/
+sample/1.0/sample_inf.o/
+debug/debug_driver.o/
+debug/dump_core.o/
+debug/secure_perf.o/
+mdla/new_arch/new_arch/utilities/mdla_util.o/
+mdla/new_arch/new_arch/utilities/mdla_ipi.o/
+mdla/new_arch/new_arch/utilities/mdla_profile.o/
+mdla/new_arch/new_arch/utilities/mdla_debug.o/
+mdla/new_arch/new_arch/utilities/mdla_trace.o/
+mdla/new_arch/new_arch/common/mdla_main.o/
+mdla/new_arch/new_arch/common/mdla_power_ctrl.o/
+mdla/new_arch/new_arch/common/mdla_driver.o/
+mdla/new_arch/new_arch/common/mdla_scheduler.o/
+mdla/new_arch/new_arch/common/mdla_ioctl.o/
+mdla/new_arch/new_arch/common/mdla_cmd_proc.o/
+mdla/new_arch/new_arch/interface/mdla_power_ctrl_v1_0.o/
+mdla/new_arch/new_arch/interface/mdla_power_ctrl_v1_x.o/
+mdla/new_arch/new_arch/interface/mdla_cmd_proc_v1_x.o/
+mdla/new_arch/new_arch/interface/mdla_cmd_proc_v1_0.o/
+mdla/new_arch/new_arch/interface/mdla_power_ctrl_v2_0.o/
+mdla/new_arch/new_arch/interface/mdla_cmd_proc_v2_0_sw_sched.o/
+mdla/new_arch/new_arch/interface/mdla_cmd_proc_v2_0_hw_sched.o/
+mdla/new_arch/new_arch/interface/mdla_cmd_proc_v2_0.o/
+mdla/new_arch/new_arch/interface/mdla_cmd_proc_v1_x_sched.o/
+mdla/new_arch/new_arch/platform/mdla_plat_device.o/
+mdla/new_arch/new_arch/platform/rv/mdla_rv.o/
+mdla/new_arch/new_arch/platform/mdla_plat_driver.o/
+mdla/new_arch/new_arch/platform/v1_x/mdla_v1_x.o/
+mdla/new_arch/new_arch/platform/v1_x/mdla_pmu_v1_x.o/
+mdla/new_arch/new_arch/platform/v1_x/mdla_irq_v1_x.o/
+mdla/new_arch/new_arch/platform/v1_x/mdla_sched_v1_x.o/
+mdla/new_arch/new_arch/platform/v2_0/mdla_pmu_v2_0.o/
+mdla/new_arch/new_arch/platform/v2_0/mdla_v2_0.o/
+mdla/new_arch/new_arch/platform/v2_0/mdla_irq_v2_0.o/
+mdla/new_arch/new_arch/platform/v2_0/mdla_sched_v2_0.o/
+mdla/new_arch/new_arch/platform/v1_0/mdla_irq_v1_0.o/
+mdla/new_arch/new_arch/platform/v1_0/mdla_pmu_v1_0.o/
+mdla/new_arch/new_arch/platform/v1_0/mdla_v1_0.o/
+vpu/4.0/vpu_main.o/
+vpu/4.0/vpu_algo.o/
+vpu/4.0/vpu_cmd.o/
+vpu/4.0/vpu_debug.o/
+vpu/p1/vpu_hw.o/
+vpu/p1/vpu_mem.o/
+vpu/p1/vpu_power.o/
+vpu/p1/vpu_dump.o/
+vpu/mt6877/vpu_cfg.o/
+edma/edma_driver.o/
+edma/edma_dbgfs.o/
+edma/edma_plat_device.o/
+edma/edma_cmd_hnd.o/
+edma/edma_v20.o/
+edma/edma_v30.o/
+devapc/dapc.o/
+devapc/dapc_cfg.o/
+
+/0              0           0     0     644     36424     `
+/33             0           0     0     644     29648     `
+/63             0           0     0     644     16008     `
+/95             0           0     0     644     52480     `
+/132            0           0     0     644     10488     `
+/172            0           0     0     644     21328     `
+/208            0           0     0     644     5544      `
+/246            0           0     0     644     2840      `
+/282            0           0     0     644     6608      `
+/324            0           0     0     644     8184      `
+/363            0           0     0     644     3792      `
+/407            0           0     0     644     960       `
+/441            0           0     0     644     17848     `
+/468            0           0     0     644     28224     `
+/494            0           0     0     644     3968      `
+/521            0           0     0     644     20032     `
+/552            0           0     0     644     3376      `
+/579            0           0     0     644     7008      `
+/609            0           0     0     644     1120      `
+/639            0           0     0     644     12184     `
+/660            0           0     0     644     1880      `
+/681            0           0     0     644     18952     `
+/702            0           0     0     644     12848     `
+/723            0           0     0     644     7216      `
+/748            0           0     0     644     22864     `
+/771            0           0     0     644     14800     `
+/794            0           0     0     644     27544     `
+/817            0           0     0     644     2168      `
+/840            0           0     0     644     26720     `
+/863            0           0     0     644     928       `
+/886            0           0     0     644     14600     `
+/909            0           0     0     644     14936     `
+/934            0           0     0     644     4408      `
+/959            0           0     0     644     5992      `
+/989            0           0     0     644     16344     `
+/1023           0           0     0     644     7672      `
+/1048           0           0     0     644     9896      `
+/1071           0           0     0     644     7952      `
+/1098           0           0     0     644     3704      `
+/1123           0           0     0     644     7392      `
+/1148           0           0     0     644     5168      `
+/1169           0           0     0     644     7640      `
+/1194           0           0     0     644     8432      `
+/1219           0           0     0     644     7496      `
+/1241           0           0     0     644     7768      `
+/1260           0           0     0     644     1512      `
+/1281           0           0     0     644     17016     `
+/1327           0           0     0     644     992       `
+/1372           0           0     0     644     8448      `
+/1421           0           0     0     644     9792      `
+/1468           0           0     0     644     17424     `
+/1515           0           0     0     644     2256      `
+/1558           0           0     0     644     8488      `
+/1607           0           0     0     644     10832     `
+/1652           0           0     0     644     2128      `
+/1700           0           0     0     644     4184      `
+/1744           0           0     0     644     3408      `
+/1791           0           0     0     644     2024      `
+/1848           0           0     0     644     2744      `
+/1905           0           0     0     644     5480      `
+/1960           0           0     0     644     5392      `
+/2015           0           0     0     644     2216      `
+/2072           0           0     0     644     6624      `
+/2136           0           0     0     644     6104      `
+/2200           0           0     0     644     5728      `
+/2255           0           0     0     644     6352      `
+/2316           0           0     0     644     4072      `
+/2368           0           0     0     644     2752      `
+/2414           0           0     0     644     4920      `
+/2466           0           0     0     644     21312     `
+/2516           0           0     0     644     15256     `
+/2570           0           0     0     644     5328      `
+/2624           0           0     0     644     9624      `
+/2680           0           0     0     644     15920     `
+/2734           0           0     0     644     23320     `
+/2784           0           0     0     644     7928      `
+/2838           0           0     0     644     11800     `
+/2894           0           0     0     644     3984      `
+/2948           0           0     0     644     12136     `
+/3002           0           0     0     644     23040     `
+/3052           0           0     0     644     18192     `
+/3072           0           0     0     644     4608      `
+/3092           0           0     0     644     5104      `
+/3111           0           0     0     644     44352     `
+/3132           0           0     0     644     43720     `
+/3149           0           0     0     644     7264      `
+/3167           0           0     0     644     5400      `
+/3187           0           0     0     644     25848     `
+/3206           0           0     0     644     856       `
+/3228           0           0     0     644     10760     `
+/3248           0           0     0     644     7808      `
+/3267           0           0     0     644     2832      `
+/3292           0           0     0     644     5272      `
+/3313           0           0     0     644     6176      `
+/3330           0           0     0     644     4168      `
+/3347           0           0     0     644     11424     `
+/3362           0           0     0     644     15416     `

@@ -1,0 +1,87 @@
+!<thin>
+//                                              1140      `
+base/ring.o/
+base/osal.o/
+base/msg_thread.o/
+core/conninfra_core.o/
+src/conninfra_dev.o/
+src/conninfra.o/
+conf/conninfra_conf.o/
+platform/consys_hw.o/
+platform/consys_hw_plat_data.o/
+platform/clock_mng.o/
+platform/pmic_mng.o/
+platform/emi_mng.o/
+platform/consys_reg_mng.o/
+platform/coredump_mng.o/
+debug_utility/conninfra_dbg.o/
+platform/mt6877/mt6877.o/
+platform/mt6877/mt6877_pmic.o/
+platform/mt6877/mt6877_emi.o/
+platform/mt6877/mt6877_consys_reg.o/
+platform/mt6877/mt6877_pos.o/
+platform/mt6877/mt6877_coredump.o/
+debug_utility/connsyslog/ring_emi.o/
+debug_utility/connsyslog/connsyslog.o/
+debug_utility/connsyslog/fw_log_mcu.o/
+debug_utility/connsyslog/fw_log_wifi_mcu.o/
+debug_utility/connsyslog/fw_log_bt_mcu.o/
+debug_utility/coredump/connsys_coredump.o/
+debug_utility/coredump/conndump_netlink.o/
+debug_utility/metlog/metlog.o/
+drv_init/bluetooth_drv_init.o/
+drv_init/conn_drv_init.o/
+drv_init/fm_drv_init.o/
+drv_init/gps_drv_init.o/
+drv_init/wlan_drv_init.o/
+test/conninfra_core_test.o/
+test/conf_test.o/
+test/cal_test.o/
+test/msg_evt_test.o/
+test/chip_rst_test.o/
+test/conninfra_test.o/
+test/connsyslog_test.o/
+test/dump_test.o/
+
+/0              0           0     0     644     2768      `
+/13             0           0     0     644     37392     `
+/26             0           0     0     644     15216     `
+/45             0           0     0     644     78528     `
+/68             0           0     0     644     20496     `
+/89             0           0     0     644     25424     `
+/106            0           0     0     644     20480     `
+/129            0           0     0     644     27520     `
+/151            0           0     0     644     2768      `
+/183            0           0     0     644     3368      `
+/205            0           0     0     644     2544      `
+/226            0           0     0     644     4048      `
+/246            0           0     0     644     5056      `
+/273            0           0     0     644     2368      `
+/298            0           0     0     644     9616      `
+/329            0           0     0     644     16232     `
+/355            0           0     0     644     17808     `
+/386            0           0     0     644     3552      `
+/416            0           0     0     644     15368     `
+/453            0           0     0     644     40808     `
+/483            0           0     0     644     4800      `
+/518            0           0     0     644     4296      `
+/555            0           0     0     644     47160     `
+/594            0           0     0     644     6576      `
+/633            0           0     0     644     5944      `
+/677            0           0     0     644     5872      `
+/719            0           0     0     644     45920     `
+/762            0           0     0     644     11176     `
+/805            0           0     0     644     11560     `
+/836            0           0     0     644     1600      `
+/867            0           0     0     644     2232      `
+/893            0           0     0     644     1520      `
+/917            0           0     0     644     1624      `
+/942            0           0     0     644     2024      `
+/968            0           0     0     644     792       `
+/996            0           0     0     644     1720      `
+/1014           0           0     0     644     2928      `
+/1031           0           0     0     644     4160      `
+/1052           0           0     0     644     4536      `
+/1074           0           0     0     644     16064     `
+/1097           0           0     0     644     3992      `
+/1121           0           0     0     644     2048      `

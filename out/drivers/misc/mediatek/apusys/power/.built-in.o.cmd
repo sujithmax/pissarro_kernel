@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/apusys/power/built-in.o :=   rm -f drivers/misc/mediatek/apusys/power/built-in.o; llvm-ar rcSTPD drivers/misc/mediatek/apusys/power/built-in.o drivers/misc/mediatek/apusys/power/2.0/built-in.o 

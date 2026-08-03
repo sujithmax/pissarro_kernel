@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/apusys/devapc/built-in.o :=   rm -f drivers/misc/mediatek/apusys/devapc/built-in.o; llvm-ar rcSTPD drivers/misc/mediatek/apusys/devapc/built-in.o drivers/misc/mediatek/apusys/devapc/dapc.o drivers/misc/mediatek/apusys/devapc/dapc_cfg.o 

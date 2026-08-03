@@ -1,0 +1,1 @@
+cmd_drivers/input/fingerprint/built-in.o :=   rm -f drivers/input/fingerprint/built-in.o; llvm-ar rcSTPD drivers/input/fingerprint/built-in.o drivers/input/fingerprint/goodix_cap/built-in.o drivers/input/fingerprint/fpc/fpc1022_tee.o 

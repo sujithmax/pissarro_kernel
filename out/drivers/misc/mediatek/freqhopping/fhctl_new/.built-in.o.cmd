@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/freqhopping/fhctl_new/built-in.o :=   rm -f drivers/misc/mediatek/freqhopping/fhctl_new/built-in.o; llvm-ar rcSTPD drivers/misc/mediatek/freqhopping/fhctl_new/built-in.o drivers/misc/mediatek/freqhopping/fhctl_new/fhctl.o 

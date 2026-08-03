@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/sensor/2.0/built-in.o :=   rm -f drivers/misc/mediatek/sensor/2.0/built-in.o; llvm-ar rcSTPD drivers/misc/mediatek/sensor/2.0/built-in.o drivers/misc/mediatek/sensor/2.0/core/built-in.o drivers/misc/mediatek/sensor/2.0/mtk_nanohub/built-in.o 

@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/teei/400/tz_dcih/built-in.o :=   rm -f drivers/misc/mediatek/teei/400/tz_dcih/built-in.o; llvm-ar rcSTPD drivers/misc/mediatek/teei/400/tz_dcih/built-in.o drivers/misc/mediatek/teei/400/tz_dcih/tz_dcih.o drivers/misc/mediatek/teei/400/tz_dcih/tz_dcih_test.o 

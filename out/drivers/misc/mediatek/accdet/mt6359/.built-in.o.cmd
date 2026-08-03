@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/accdet/mt6359/built-in.o :=   rm -f drivers/misc/mediatek/accdet/mt6359/built-in.o; llvm-ar rcSTPD drivers/misc/mediatek/accdet/mt6359/built-in.o drivers/misc/mediatek/accdet/mt6359/accdet.o 

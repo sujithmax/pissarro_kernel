@@ -1,0 +1,1 @@
+cmd_drivers/input/touchscreen/goodix_gt9896/goodix_core.o :=  rm -f drivers/input/touchscreen/goodix_gt9896/goodix_core.o; llvm-ar rcSTPD drivers/input/touchscreen/goodix_gt9896/goodix_core.o drivers/input/touchscreen/goodix_gt9896/goodix_ts_i2c.o drivers/input/touchscreen/goodix_gt9896/goodix_ts_core.o drivers/input/touchscreen/goodix_gt9896/goodix_cfg_bin.o 

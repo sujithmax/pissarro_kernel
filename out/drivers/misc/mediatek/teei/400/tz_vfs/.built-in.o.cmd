@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/teei/400/tz_vfs/built-in.o :=   rm -f drivers/misc/mediatek/teei/400/tz_vfs/built-in.o; llvm-ar rcSTPD drivers/misc/mediatek/teei/400/tz_vfs/built-in.o drivers/misc/mediatek/teei/400/tz_vfs/vfsFun.o drivers/misc/mediatek/teei/400/tz_vfs/fp_vendor.o 

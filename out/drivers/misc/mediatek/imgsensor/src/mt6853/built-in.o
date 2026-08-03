@@ -1,0 +1,52 @@
+!<thin>
+//                                              1470      `
+../common/v1_1/imgsensor.o/
+../common/v1_1/imgsensor_hw.o/
+../common/v1_1/imgsensor_i2c.o/
+../common/v1_1/imgsensor_legacy.o/
+../common/v1_1/imgsensor_proc.o/
+../common/v1_1/imgsensor_sensor_list.o/
+../common/v1_1/seninf.o/
+camera_project/k6877v1_64/camera_hw/regulator/regulator.o/
+camera_project/k6877v1_64/camera_hw/gpio/gpio.o/
+camera_project/k6877v1_64/camera_hw/mclk/mclk.o/
+camera_project/k6877v1_64/camera_hw/imgsensor_cfg_table.o/
+camera_project/k6877v1_64/s5khm2sp_ofilm_mipi_raw/s5khm2sp_ofilm_mipi_raw_Sensor.o/
+camera_project/k6877v1_64/imx471_ofilm_mipi_raw/imx471_ofilm_mipi_raw_Sensor.o/
+camera_project/k6877v1_64/s5k4h7_sunny_mipi_raw/s5k4h7_sunny_mipi_raw_Sensor.o/
+camera_project/k6877v1_64/gc02m1_sunny_mipi_raw/gc02m1_sunny_mipi_raw_Sensor.o/
+camera_project/k6877v1_64/gc02m1_sunny_mipi_raw/gc02m1_sunny_mipi_raw_eeprom.o/
+camera_project/k6877v1_64/s5khm2sp_sunny_mipi_raw/s5khm2sp_sunny_mipi_raw_Sensor.o/
+camera_project/k6877v1_64/imx471_sunny_mipi_raw/imx471_sunny_mipi_raw_Sensor.o/
+camera_project/k6877v1_64/s5k4h7_aac_mipi_raw/s5k4h7_aac_mipi_raw_Sensor.o/
+camera_project/k6877v1_64/gc02m1_ofilm_mipi_raw/gc02m1_ofilm_mipi_raw_Sensor.o/
+camera_project/k6877v1_64/gc02m1_ofilm_mipi_raw/gc02m1_ofilm_mipi_raw_eeprom.o/
+camera_project/k6877v1_64/s5khm2sd_ofilm_mipi_raw/s5khm2sd_ofilm_mipi_raw_Sensor.o/
+camera_project/k6877v1_64/s5khm2sd_sunny_mipi_raw/s5khm2sd_sunny_mipi_raw_Sensor.o/
+../common/v1_1/seninf_clk.o/
+seninf_mt6877/seninf_impl.o/
+/0              0           0     0     644     89336     `
+/28             0           0     0     644     6816      `
+/59             0           0     0     644     16768     `
+/91             0           0     0     644     2328      `
+/126            0           0     0     644     19512     `
+/159            0           0     0     644     3368      `
+/199            0           0     0     644     19848     `
+/224            0           0     0     644     6168      `
+/283            0           0     0     644     3968      `
+/332            0           0     0     644     4120      `
+/381            0           0     0     644     6240      `
+/440            0           0     0     644     67472     `
+/524            0           0     0     644     22608     `
+/604            0           0     0     644     55360     `
+/684            0           0     0     644     29600     `
+/764            0           0     0     644     4608      `
+/844            0           0     0     644     67464     `
+/928            0           0     0     644     22392     `
+/1008           0           0     0     644     55296     `
+/1084           0           0     0     644     30016     `
+/1164           0           0     0     644     4608      `
+/1244           0           0     0     644     89648     `
+/1328           0           0     0     644     89664     `
+/1412           0           0     0     644     7408      `
+/1441           0           0     0     644     3776      `

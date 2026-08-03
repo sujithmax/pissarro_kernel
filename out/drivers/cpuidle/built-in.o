@@ -1,0 +1,18 @@
+!<thin>
+//                                              120       `
+cpuidle.o/
+driver.o/
+governor.o/
+sysfs.o/
+governors/menu.o/
+governors/mtk_menu.o/
+dt_idle_states.o/
+cpuidle-mediatek.o/
+/0              0           0     0     644     24088     `
+/11             0           0     0     644     9696      `
+/21             0           0     0     644     3184      `
+/33             0           0     0     644     15888     `
+/42             0           0     0     644     5744      `
+/60             0           0     0     644     8088      `
+/82             0           0     0     644     5304      `
+/100            0           0     0     644     7320      `

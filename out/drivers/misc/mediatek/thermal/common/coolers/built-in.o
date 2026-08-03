@@ -1,0 +1,19 @@
+!<thin>
+//                                              164       `
+mtk_ta.o/
+mtk_cooler_atm.o/
+mtk_cooler_gpu_cus.o/
+mtk_cooler_char_curr_cus.o/
+mtk_cooler_mutt_gen97.o/
+mtk_cooler_md_cus.o/
+mtk_cooler_dtm.o/
+mtk_cooler_sysrst.o/
+
+/0              0           0     0     644     11448     `
+/10             0           0     0     644     99680     `
+/28             0           0     0     644     6328      `
+/50             0           0     0     644     11704     `
+/78             0           0     0     644     51208     `
+/103            0           0     0     644     4872      `
+/124            0           0     0     644     20440     `
+/142            0           0     0     644     7944      `

@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/scp/mt6853/../v03/built-in.o :=   rm -f drivers/misc/mediatek/scp/mt6853/../v03/built-in.o; llvm-ar rcSTPD drivers/misc/mediatek/scp/mt6853/../v03/built-in.o drivers/misc/mediatek/scp/mt6853/../v03/scp.o 

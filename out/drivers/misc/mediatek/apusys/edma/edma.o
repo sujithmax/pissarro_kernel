@@ -1,0 +1,15 @@
+!<thin>
+//                                              90        `
+edma_driver.o/
+edma_dbgfs.o/
+edma_plat_device.o/
+edma_cmd_hnd.o/
+edma_v20.o/
+edma_v30.o/
+
+/0              0           0     0     644     10760     `
+/15             0           0     0     644     7808      `
+/29             0           0     0     644     2832      `
+/49             0           0     0     644     5272      `
+/65             0           0     0     644     6176      `
+/77             0           0     0     644     4168      `

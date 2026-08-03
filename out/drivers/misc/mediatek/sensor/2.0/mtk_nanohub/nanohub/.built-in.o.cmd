@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/sensor/2.0/mtk_nanohub/nanohub/built-in.o :=   rm -f drivers/misc/mediatek/sensor/2.0/mtk_nanohub/nanohub/built-in.o; llvm-ar rcSTPD drivers/misc/mediatek/sensor/2.0/mtk_nanohub/nanohub/built-in.o drivers/misc/mediatek/sensor/2.0/mtk_nanohub/nanohub/nanohub.o 

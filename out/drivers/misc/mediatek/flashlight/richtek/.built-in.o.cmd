@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/flashlight/richtek/built-in.o :=   rm -f drivers/misc/mediatek/flashlight/richtek/built-in.o; llvm-ar rcSTPD drivers/misc/mediatek/flashlight/richtek/built-in.o drivers/misc/mediatek/flashlight/richtek/rt-flashlight.o drivers/misc/mediatek/flashlight/richtek/rtfled.o 

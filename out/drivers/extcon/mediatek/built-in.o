@@ -1,0 +1,11 @@
+!<thin>
+//                                              70        `
+extcon_usb.o/
+boost_manager_pissarro.o/
+usb-tcpc.o/
+usb_dual_role.o/
+
+/0              0           0     0     644     14416     `
+/14             0           0     0     644     11512     `
+/40             0           0     0     644     5976      `
+/52             0           0     0     644     3408      `

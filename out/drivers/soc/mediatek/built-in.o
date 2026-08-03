@@ -1,0 +1,16 @@
+!<thin>
+//                                              104       `
+mtk-pmic-wrap.o/
+mtk-cmdq-helper.o/
+mtk-mbox.o/
+mtk_tinysys_ipi.o/
+mtk-lpm.o/
+mtk-socinfo.o/
+socinfo.o/
+/0              0           0     0     644     79888     `
+/17             0           0     0     644     115464    `
+/36             0           0     0     644     17152     `
+/48             0           0     0     644     18872     `
+/67             0           0     0     644     6840      `
+/78             0           0     0     644     3432      `
+/93             0           0     0     644     7224      `

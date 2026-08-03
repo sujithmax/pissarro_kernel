@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/sensor/2.0/core/built-in.o :=   rm -f drivers/misc/mediatek/sensor/2.0/core/built-in.o; llvm-ar rcSTPD drivers/misc/mediatek/sensor/2.0/core/built-in.o drivers/misc/mediatek/sensor/2.0/core/hf_manager.o 

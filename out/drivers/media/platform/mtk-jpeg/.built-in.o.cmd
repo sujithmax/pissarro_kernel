@@ -1,0 +1,1 @@
+cmd_drivers/media/platform/mtk-jpeg/built-in.o :=   rm -f drivers/media/platform/mtk-jpeg/built-in.o; llvm-ar rcSTPD drivers/media/platform/mtk-jpeg/built-in.o drivers/media/platform/mtk-jpeg/mtk_jpeg.o 

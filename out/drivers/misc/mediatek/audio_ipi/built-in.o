@@ -1,0 +1,21 @@
+!<thin>
+//                                              334       `
+mt6853/audio_ipi_platform.o/
+common/framework/audio_ringbuf.o/
+common/framework/audio_ipi_dma.o/
+common/framework/audio_ipi_driver.o/
+common/framework/audio_ipi_queue.o/
+common/framework/audio_messenger_ipi.o/
+common/framework/audio_task_manager.o/
+common/framework/adsp_ipi_queue.o/
+common/tasks/call/audio_ipi_client_phone_call.o/
+
+/0              0           0     0     644     5040      `
+/29             0           0     0     644     14744     `
+/63             0           0     0     644     42560     `
+/97             0           0     0     644     15168     `
+/134            0           0     0     644     34568     `
+/170            0           0     0     644     14360     `
+/210            0           0     0     644     2000      `
+/249            0           0     0     644     28152     `
+/284            0           0     0     644     2416      `

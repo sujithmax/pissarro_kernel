@@ -1,0 +1,1 @@
+cmd_drivers/soc/mediatek/built-in.o :=   rm -f drivers/soc/mediatek/built-in.o; llvm-ar rcSTPD drivers/soc/mediatek/built-in.o drivers/soc/mediatek/mtk-pmic-wrap.o drivers/soc/mediatek/mtk-cmdq-helper.o drivers/soc/mediatek/mtk-mbox.o drivers/soc/mediatek/mtk_tinysys_ipi.o drivers/soc/mediatek/mtk-lpm.o drivers/soc/mediatek/mtk-socinfo.o drivers/soc/mediatek/socinfo.o 

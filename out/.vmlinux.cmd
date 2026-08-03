@@ -1,0 +1,1 @@
+cmd_vmlinux := /bin/bash ../scripts/link-vmlinux.sh ld.lld -EL -maarch64linux -z noexecstack --no-undefined -X -z norelro -shared -Bsymbolic -z notext  --no-apply-dynamic-relocs  --build-id --pack-dyn-relocs=relr ;  true

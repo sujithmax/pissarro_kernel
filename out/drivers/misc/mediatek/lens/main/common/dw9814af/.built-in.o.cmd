@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/lens/main/common/dw9814af/built-in.o :=   rm -f drivers/misc/mediatek/lens/main/common/dw9814af/built-in.o; llvm-ar rcSTPD drivers/misc/mediatek/lens/main/common/dw9814af/built-in.o drivers/misc/mediatek/lens/main/common/dw9814af/DW9814AF.o 

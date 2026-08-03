@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/apusys/mdla/new_arch/built-in.o :=   rm -f drivers/misc/mediatek/apusys/mdla/new_arch/built-in.o; llvm-ar rcSTPD drivers/misc/mediatek/apusys/mdla/new_arch/built-in.o drivers/misc/mediatek/apusys/mdla/new_arch/mdla.o 

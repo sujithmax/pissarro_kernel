@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/pmic/mt6360/built-in.o :=   rm -f drivers/misc/mediatek/pmic/mt6360/built-in.o; llvm-ar rcSTPD drivers/misc/mediatek/pmic/mt6360/built-in.o drivers/misc/mediatek/pmic/mt6360/pmu/built-in.o drivers/misc/mediatek/pmic/mt6360/pmic/built-in.o drivers/misc/mediatek/pmic/mt6360/ldo/built-in.o 

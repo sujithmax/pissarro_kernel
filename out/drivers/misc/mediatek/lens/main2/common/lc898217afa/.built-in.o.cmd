@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/lens/main2/common/lc898217afa/built-in.o :=   rm -f drivers/misc/mediatek/lens/main2/common/lc898217afa/built-in.o; llvm-ar rcSTPD drivers/misc/mediatek/lens/main2/common/lc898217afa/built-in.o drivers/misc/mediatek/lens/main2/common/lc898217afa/LC898217AFA.o 

@@ -1,0 +1,111 @@
+!<thin>
+//                                              678       `
+debug-monitors.o/
+entry.o/
+irq.o/
+fpsimd.o/
+entry-fpsimd.o/
+process.o/
+ptrace.o/
+setup.o/
+signal.o/
+sys.o/
+stacktrace.o/
+time.o/
+traps.o/
+io.o/
+vdso.o/
+hyp-stub.o/
+psci.o/
+cpu_ops.o/
+insn.o/
+return_address.o/
+cpuinfo.o/
+cpu_errata.o/
+cpufeature.o/
+alternative.o/
+cacheinfo.o/
+smp.o/
+smp_spin_table.o/
+topology.o/
+smccc-call.o/
+sys32.o/
+signal32.o/
+sys_compat.o/
+entry32.o/
+kuser32.o/
+arm64ksyms.o/
+module.o/
+module-plts.o/
+perf_regs.o/
+perf_callchain.o/
+perf_event.o/
+hw_breakpoint.o/
+sleep.o/
+suspend.o/
+cpuidle.o/
+jump_label.o/
+armv8_deprecated.o/
+kaslr.o/
+ssbd.o/
+hwconf_manager.o/
+vdso/vdso.o/
+probes/uprobes.o/
+probes/decode-insn.o/
+probes/simulate-insn.o/
+vdso32/vdso.o/
+
+/0              0           0     0     644     16904     `
+/18             0           0     0     644     76888     `
+/27             0           0     0     644     3944      `
+/34             0           0     0     644     14312     `
+/44             0           0     0     644     664       `
+/60             0           0     0     644     18240     `
+/71             0           0     0     644     46960     `
+/81             0           0     0     644     13736     `
+/90             0           0     0     644     63232     `
+/100            0           0     0     644     31160     `
+/107            0           0     0     644     5272      `
+/121            0           0     0     644     3336      `
+/129            0           0     0     644     38968     `
+/138            0           0     0     644     5952      `
+/144            0           0     0     644     14728     `
+/152            0           0     0     644     5152      `
+/164            0           0     0     644     4008      `
+/172            0           0     0     644     2464      `
+/183            0           0     0     644     27280     `
+/191            0           0     0     644     2528      `
+/209            0           0     0     644     15312     `
+/220            0           0     0     644     25048     `
+/234            0           0     0     644     51488     `
+/248            0           0     0     644     6352      `
+/263            0           0     0     644     3080      `
+/276            0           0     0     644     34736     `
+/283            0           0     0     644     3192      `
+/301            0           0     0     644     17688     `
+/313            0           0     0     644     872       `
+/327            0           0     0     644     34192     `
+/336            0           0     0     644     124160    `
+/348            0           0     0     644     1264      `
+/362            0           0     0     644     2160      `
+/373            0           0     0     644     896       `
+/384            0           0     0     644     22576     `
+/398            0           0     0     644     5568      `
+/408            0           0     0     644     3320      `
+/423            0           0     0     644     2056      `
+/436            0           0     0     644     3024      `
+/454            0           0     0     644     33816     `
+/468            0           0     0     644     20000     `
+/485            0           0     0     644     1680      `
+/494            0           0     0     644     5744      `
+/505            0           0     0     644     1696      `
+/516            0           0     0     644     1536      `
+/530            0           0     0     644     26744     `
+/550            0           0     0     644     4200      `
+/559            0           0     0     644     1984      `
+/567            0           0     0     644     22624     `
+/585            0           0     0     644     8664      `
+/598            0           0     0     644     4704      `
+/616            0           0     0     644     2784      `
+/638            0           0     0     644     1904      `
+/662            0           0     0     644     8672      `

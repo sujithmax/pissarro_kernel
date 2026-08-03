@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/geniezone/mtee-kree/built-in.o :=   rm -f drivers/misc/mediatek/geniezone/mtee-kree/built-in.o; llvm-ar rcSTPD drivers/misc/mediatek/geniezone/mtee-kree/built-in.o drivers/misc/mediatek/geniezone/mtee-kree/tz_mmap.o drivers/misc/mediatek/geniezone/mtee-kree/tz_system.o drivers/misc/mediatek/geniezone/mtee-kree/kree_mem.o 

@@ -1,0 +1,61 @@
+!<thin>
+//                                              1060      `
+debug/common/mtk_dbg_fs_common.o/
+debug/common/mtk_lpm_timer.o/
+debug/common/mtk_lpm_pwr_gs.o/
+debug/common/gs/v1/mtk_lpm_pwr_gs_common.o/
+debug/common/gs/v1/mtk_lpm_pwr_gs_dump_clk.o/
+debug/common/gs/v1/mtk_lpm_pwr_gs_dump_pmic.o/
+debug/mt6877/mt6877_dbg_fs.o/
+debug/mt6877/mt6877_dbg_lpm_fs.o/
+debug/mt6877/mt6877_dbg_lpm_rc_fs.o/
+debug/mt6877/mt6877_dbg_spm_fs.o/
+debug/mt6877/mt6877_lpm_trace_event.o/
+debug/mt6877/mtk_cpupm_dbg.o/
+debug/mt6877/mtk_cpuidle_status.o/
+debug/mt6877/mtk_cpuidle_cpc.o/
+debug/mt6877/mtk_idle_procfs.o/
+debug/mt6877/mtk_idle_procfs_state.o/
+debug/mt6877/mtk_idle_procfs_cpc.o/
+debug/mt6877/mtk_idle_procfs_profile.o/
+debug/mt6877/mtk_idle_procfs_control.o/
+debug/mt6877/mt6877_power_gs_compare.o/
+debug/mt6877/mtk_power_gs_6315_1_array.o/
+debug/mt6877/mtk_power_gs_6315_2_array.o/
+debug/mt6877/mtk_power_gs_6365_array.o/
+debug/mt6877/mtk_dcm_array.o/
+debug/mt6877/mtk_cg_array.o/
+platform/mt6877/mt6877.o/
+platform/mt6877/mtk_lp_plat_apmcu.o/
+platform/mt6877/mtk_lp_plat_apmcu_mbox.o/
+platform/mt6877/suspend/mt6877_suspend.o/
+
+/0              0           0     0     644     12872     `
+/34             0           0     0     644     2432      `
+/64             0           0     0     644     2952      `
+/95             0           0     0     644     1344      `
+/139            0           0     0     644     6320      `
+/185            0           0     0     644     4608      `
+/232            0           0     0     644     2736      `
+/262            0           0     0     644     5312      `
+/296            0           0     0     644     16192     `
+/333            0           0     0     644     18816     `
+/367            0           0     0     644     8536      `
+/406            0           0     0     644     5800      `
+/436            0           0     0     644     17944     `
+/471            0           0     0     644     6648      `
+/503            0           0     0     644     9480      `
+/535            0           0     0     644     13072     `
+/573            0           0     0     644     7456      `
+/609            0           0     0     644     9976      `
+/649            0           0     0     644     19000     `
+/689            0           0     0     644     5776      `
+/729            0           0     0     644     2608      `
+/771            0           0     0     644     2608      `
+/813            0           0     0     644     7208      `
+/853            0           0     0     644     6728      `
+/883            0           0     0     644     6744      `
+/912            0           0     0     644     2544      `
+/938            0           0     0     644     9000      `
+/975            0           0     0     644     8640      `
+/1017           0           0     0     644     13832     `

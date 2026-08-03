@@ -1,0 +1,1 @@
+cmd_sound/soc/mediatek/scp_ultra/ultra_ipi/built-in.o :=   rm -f sound/soc/mediatek/scp_ultra/ultra_ipi/built-in.o; llvm-ar rcSTPD sound/soc/mediatek/scp_ultra/ultra_ipi/built-in.o sound/soc/mediatek/scp_ultra/ultra_ipi/snd-soc-mtk-scp-ultra.o 

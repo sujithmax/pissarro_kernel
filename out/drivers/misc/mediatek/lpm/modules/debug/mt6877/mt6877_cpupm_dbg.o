@@ -1,0 +1,19 @@
+!<thin>
+//                                              180       `
+mtk_cpupm_dbg.o/
+mtk_cpuidle_status.o/
+mtk_cpuidle_cpc.o/
+mtk_idle_procfs.o/
+mtk_idle_procfs_state.o/
+mtk_idle_procfs_cpc.o/
+mtk_idle_procfs_profile.o/
+mtk_idle_procfs_control.o/
+
+/0              0           0     0     644     5800      `
+/17             0           0     0     644     17944     `
+/39             0           0     0     644     6648      `
+/58             0           0     0     644     9480      `
+/77             0           0     0     644     13072     `
+/102            0           0     0     644     7456      `
+/125            0           0     0     644     9976      `
+/152            0           0     0     644     19000     `

@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/eccci/fsm/built-in.o :=   rm -f drivers/misc/mediatek/eccci/fsm/built-in.o; llvm-ar rcSTPD drivers/misc/mediatek/eccci/fsm/built-in.o drivers/misc/mediatek/eccci/fsm/ccci_fsm_all.o 

@@ -1,0 +1,34 @@
+!<thin>
+//                                              772       `
+camera_hw/regulator/regulator.o/
+camera_hw/gpio/gpio.o/
+camera_hw/mclk/mclk.o/
+camera_hw/imgsensor_cfg_table.o/
+s5khm2sp_ofilm_mipi_raw/s5khm2sp_ofilm_mipi_raw_Sensor.o/
+imx471_ofilm_mipi_raw/imx471_ofilm_mipi_raw_Sensor.o/
+s5k4h7_sunny_mipi_raw/s5k4h7_sunny_mipi_raw_Sensor.o/
+gc02m1_sunny_mipi_raw/gc02m1_sunny_mipi_raw_Sensor.o/
+gc02m1_sunny_mipi_raw/gc02m1_sunny_mipi_raw_eeprom.o/
+s5khm2sp_sunny_mipi_raw/s5khm2sp_sunny_mipi_raw_Sensor.o/
+imx471_sunny_mipi_raw/imx471_sunny_mipi_raw_Sensor.o/
+s5k4h7_aac_mipi_raw/s5k4h7_aac_mipi_raw_Sensor.o/
+gc02m1_ofilm_mipi_raw/gc02m1_ofilm_mipi_raw_Sensor.o/
+gc02m1_ofilm_mipi_raw/gc02m1_ofilm_mipi_raw_eeprom.o/
+s5khm2sd_ofilm_mipi_raw/s5khm2sd_ofilm_mipi_raw_Sensor.o/
+s5khm2sd_sunny_mipi_raw/s5khm2sd_sunny_mipi_raw_Sensor.o/
+/0              0           0     0     644     6168      `
+/33             0           0     0     644     3968      `
+/56             0           0     0     644     4120      `
+/79             0           0     0     644     6240      `
+/112            0           0     0     644     67472     `
+/170            0           0     0     644     22608     `
+/224            0           0     0     644     55360     `
+/278            0           0     0     644     29600     `
+/332            0           0     0     644     4608      `
+/386            0           0     0     644     67464     `
+/444            0           0     0     644     22392     `
+/498            0           0     0     644     55296     `
+/548            0           0     0     644     30016     `
+/602            0           0     0     644     4608      `
+/656            0           0     0     644     89648     `
+/714            0           0     0     644     89664     `

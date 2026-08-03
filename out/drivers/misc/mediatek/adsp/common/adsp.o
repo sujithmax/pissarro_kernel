@@ -1,0 +1,13 @@
+!<thin>
+//                                              80        `
+adsp_core.o/
+adsp_fs.o/
+adsp_semaphore.o/
+adsp_logger.o/
+adsp_feature_table.o/
+
+/0              0           0     0     644     13592     `
+/13             0           0     0     644     12056     `
+/24             0           0     0     644     3560      `
+/42             0           0     0     644     6560      `
+/57             0           0     0     644     10216     `

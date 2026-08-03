@@ -1,0 +1,49 @@
+!<thin>
+//                                              568       `
+dip/cameradip_dummy.o/
+dip/isp_6s/camera_dip.o/
+src/cameraisp_dummy.o/
+src/mt6853/camera_isp.o/
+src/mt6853/cam_qos.o/
+owe/camera_owe_dummy.o/
+rsc/camera_rsc_dummy.o/
+rsc/engine_request.o/
+rsc/isp_6s/camera_rsc.o/
+wpe/camerawpe_dummy.o/
+wpe/isp_6s/camera_wpe.o/
+dpe/cameradpe_dummy.o/
+dpe/isp_60/engine_request.o/
+dpe/isp_60/camera_dpe.o/
+dpe/isp_60/videobuf2-dma-contig.o/
+tsf/camera_tsf_dummy.o/
+mfb/camera_mfb_dummy.o/
+mfb/isp_6s/engine_request.o/
+mfb/isp_6s/camera_mfb.o/
+fdvt/fdvt_dummy.o/
+fdvt/5.1/camera_fdvt.o/
+pda/camera_pda_dummy.o/
+pda/isp_6s/camera_pda.o/
+
+/0              0           0     0     644     784       `
+/23             0           0     0     644     605968    `
+/48             0           0     0     644     784       `
+/71             0           0     0     644     420536    `
+/96             0           0     0     644     19256     `
+/118            0           0     0     644     784       `
+/142            0           0     0     644     784       `
+/166            0           0     0     644     16808     `
+/188            0           0     0     644     89120     `
+/213            0           0     0     644     784       `
+/236            0           0     0     644     146160    `
+/261            0           0     0     644     784       `
+/284            0           0     0     644     16800     `
+/313            0           0     0     644     161632    `
+/338            0           0     0     644     14440     `
+/373            0           0     0     644     784       `
+/397            0           0     0     644     784       `
+/421            0           0     0     644     16456     `
+/450            0           0     0     644     157008    `
+/475            0           0     0     644     776       `
+/494            0           0     0     644     115064    `
+/518            0           0     0     644     784       `
+/542            0           0     0     644     35432     `

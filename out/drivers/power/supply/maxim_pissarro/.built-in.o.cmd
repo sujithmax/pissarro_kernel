@@ -1,0 +1,1 @@
+cmd_drivers/power/supply/maxim_pissarro/built-in.o :=   rm -f drivers/power/supply/maxim_pissarro/built-in.o; llvm-ar rcSTPD drivers/power/supply/maxim_pissarro/built-in.o drivers/power/supply/maxim_pissarro/max77932.o 

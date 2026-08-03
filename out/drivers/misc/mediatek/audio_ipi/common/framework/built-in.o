@@ -1,0 +1,16 @@
+!<thin>
+//                                              136       `
+audio_ringbuf.o/
+audio_ipi_dma.o/
+audio_ipi_driver.o/
+audio_ipi_queue.o/
+audio_messenger_ipi.o/
+audio_task_manager.o/
+adsp_ipi_queue.o/
+/0              0           0     0     644     14744     `
+/17             0           0     0     644     42560     `
+/34             0           0     0     644     15168     `
+/54             0           0     0     644     34568     `
+/73             0           0     0     644     14360     `
+/96             0           0     0     644     2000      `
+/118            0           0     0     644     28152     `

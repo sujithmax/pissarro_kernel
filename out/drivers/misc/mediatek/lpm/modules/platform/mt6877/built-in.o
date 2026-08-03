@@ -1,0 +1,11 @@
+!<thin>
+//                                              84        `
+mt6877.o/
+mtk_lp_plat_apmcu.o/
+mtk_lp_plat_apmcu_mbox.o/
+suspend/mt6877_suspend.o/
+
+/0              0           0     0     644     2544      `
+/10             0           0     0     644     9000      `
+/31             0           0     0     644     8640      `
+/57             0           0     0     644     13832     `

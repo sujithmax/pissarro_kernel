@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/lpm/mtk_lpm_trace_event/built-in.o :=   rm -f drivers/misc/mediatek/lpm/mtk_lpm_trace_event/built-in.o; llvm-ar rcSTPD drivers/misc/mediatek/lpm/mtk_lpm_trace_event/built-in.o drivers/misc/mediatek/lpm/mtk_lpm_trace_event/mtk_lpm_trace_event.o 

@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/base/power/koro/mt6853/built-in.o :=   rm -f drivers/misc/mediatek/base/power/koro/mt6853/built-in.o; llvm-ar rcSTPD drivers/misc/mediatek/base/power/koro/mt6853/built-in.o drivers/misc/mediatek/base/power/koro/mt6853/mtk_koro.o 

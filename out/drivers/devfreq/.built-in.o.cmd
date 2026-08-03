@@ -1,0 +1,1 @@
+cmd_drivers/devfreq/built-in.o :=   rm -f drivers/devfreq/built-in.o; llvm-ar rcSTPD drivers/devfreq/built-in.o drivers/devfreq/devfreq.o drivers/devfreq/governor_simpleondemand.o drivers/devfreq/helio-dvfsrc-v3/built-in.o 

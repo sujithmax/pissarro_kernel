@@ -1,0 +1,1 @@
+cmd_drivers/media/platform/mtk-vcodec/mtk-vcodec-common.o :=  rm -f drivers/media/platform/mtk-vcodec/mtk-vcodec-common.o; llvm-ar rcSTPD drivers/media/platform/mtk-vcodec/mtk-vcodec-common.o drivers/media/platform/mtk-vcodec/mt6877/mtk_vcodec_intr.o drivers/media/platform/mtk-vcodec/mtk_vcodec_util.o 

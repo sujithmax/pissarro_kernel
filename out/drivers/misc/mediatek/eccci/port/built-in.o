@@ -1,0 +1,29 @@
+!<thin>
+//                                              172       `
+port_cfg.o/
+port_char.o/
+port_ctlmsg.o/
+port_udc.o/
+port_misc.o/
+port_ipc.o/
+port_net.o/
+port_poller.o/
+port_proxy.o/
+port_rpc.o/
+port_smem.o/
+port_sysmsg.o/
+ccci_swtp.o/
+
+/0              0           0     0     644     74928     `
+/12             0           0     0     644     5312      `
+/25             0           0     0     644     2208      `
+/40             0           0     0     644     27040     `
+/52             0           0     0     644     6072      `
+/65             0           0     0     644     12464     `
+/77             0           0     0     644     9512      `
+/89             0           0     0     644     1856      `
+/104            0           0     0     644     43056     `
+/118            0           0     0     644     22984     `
+/130            0           0     0     644     31456     `
+/143            0           0     0     644     5488      `
+/158            0           0     0     644     7984      `

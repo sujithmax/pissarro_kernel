@@ -1,0 +1,1 @@
+cmd_drivers/power/supply/ti_pissarro/built-in.o :=   rm -f drivers/power/supply/ti_pissarro/built-in.o; llvm-ar rcSTPD drivers/power/supply/ti_pissarro/built-in.o drivers/power/supply/ti_pissarro/bq25980.o drivers/power/supply/ti_pissarro/bq28z610.o 

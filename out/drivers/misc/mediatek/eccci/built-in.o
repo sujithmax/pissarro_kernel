@@ -1,0 +1,85 @@
+!<thin>
+//                                              782       `
+ccci_core.o/
+ccci_bm.o/
+ccci_modem.o/
+modem_sys1.o/
+ccci_auxadc.o/
+modem_sys3.o/
+fsm/ccci_fsm.o/
+fsm/ccci_fsm_ioctl.o/
+fsm/ccci_fsm_monitor.o/
+fsm/ccci_fsm_poller.o/
+fsm/ccci_fsm_scp.o/
+fsm/ccci_fsm_ee.o/
+fsm/ccci_fsm_sys.o/
+fsm/mdee_dumper_v1.o/
+fsm/mdee_dumper_v2.o/
+fsm/mdee_dumper_v3.o/
+fsm/mdee_dumper_v5.o/
+hif/ccci_hif.o/
+hif/ccci_hif_cldma.o/
+hif/ccci_hif_dpmaif.o/
+hif/dpmaif_drv.o/
+hif/ccci_ringbuf.o/
+hif/ccci_hif_ccif.o/
+port/port_cfg.o/
+port/port_char.o/
+port/port_ctlmsg.o/
+port/port_udc.o/
+port/port_misc.o/
+port/port_ipc.o/
+port/port_net.o/
+port/port_poller.o/
+port/port_proxy.o/
+port/port_rpc.o/
+port/port_smem.o/
+port/port_sysmsg.o/
+port/ccci_swtp.o/
+udc/udc.o/
+mixdev/mix_event.o/
+mt6853/ccci_platform.o/
+mt6853/ap_md_reg_dump_6877.o/
+mt6853/md_sys1_platform.o/
+
+/0              0           0     0     644     8360      `
+/13             0           0     0     644     11200     `
+/24             0           0     0     644     37352     `
+/38             0           0     0     644     38696     `
+/52             0           0     0     644     4632      `
+/67             0           0     0     644     776       `
+/81             0           0     0     644     29560     `
+/97             0           0     0     644     35368     `
+/119            0           0     0     644     7352      `
+/143            0           0     0     644     5424      `
+/166            0           0     0     644     10168     `
+/186            0           0     0     644     9784      `
+/205            0           0     0     644     4632      `
+/225            0           0     0     644     16704     `
+/247            0           0     0     644     21760     `
+/269            0           0     0     644     21112     `
+/291            0           0     0     644     22496     `
+/313            0           0     0     644     6840      `
+/329            0           0     0     644     56256     `
+/351            0           0     0     644     72336     `
+/374            0           0     0     644     35176     `
+/392            0           0     0     644     9808      `
+/412            0           0     0     644     41288     `
+/433            0           0     0     644     74928     `
+/450            0           0     0     644     5312      `
+/468            0           0     0     644     2208      `
+/488            0           0     0     644     27040     `
+/505            0           0     0     644     6072      `
+/523            0           0     0     644     12464     `
+/540            0           0     0     644     9512      `
+/557            0           0     0     644     1856      `
+/577            0           0     0     644     43056     `
+/596            0           0     0     644     22984     `
+/613            0           0     0     644     31456     `
+/631            0           0     0     644     5488      `
+/651            0           0     0     644     7984      `
+/669            0           0     0     644     12392     `
+/680            0           0     0     644     10880     `
+/700            0           0     0     644     8648      `
+/724            0           0     0     644     28704     `
+/754            0           0     0     644     40176     `

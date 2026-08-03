@@ -1,0 +1,12 @@
+!<thin>
+//                                              92        `
+platform/mt6877/fbt_cpu_platform.o/
+src/fbt_cpu.o/
+src/xgf.o/
+src/mini_top.o/
+src/uboost.o/
+/0              0           0     0     644     6240      `
+/36             0           0     0     644     138936    `
+/51             0           0     0     644     111448    `
+/62             0           0     0     644     32368     `
+/78             0           0     0     644     6168      `

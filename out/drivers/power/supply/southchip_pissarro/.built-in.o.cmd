@@ -1,0 +1,1 @@
+cmd_drivers/power/supply/southchip_pissarro/built-in.o :=   rm -f drivers/power/supply/southchip_pissarro/built-in.o; llvm-ar rcSTPD drivers/power/supply/southchip_pissarro/built-in.o drivers/power/supply/southchip_pissarro/sc8551.o 

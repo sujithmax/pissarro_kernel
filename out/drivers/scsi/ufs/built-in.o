@@ -1,0 +1,27 @@
+!<thin>
+//                                              192       `
+ufshcd.o/
+ufshcd-crypto.o/
+ufsfeature.o/
+mi_ufs_common_ops.o/
+ufshpb.o/
+ufstw.o/
+ufshpb_skh.o/
+ufshcd-pltfrm.o/
+ufs-mtk.o/
+mediatek/mt6877/ufs-mtk-platform.o/
+ufs-mtk-block.o/
+ufs-mtk-dbg.o/
+
+/0              0           0     0     644     248936    `
+/10             0           0     0     644     14584     `
+/27             0           0     0     644     19168     `
+/41             0           0     0     644     2504      `
+/62             0           0     0     644     80224     `
+/72             0           0     0     644     49336     `
+/81             0           0     0     644     81384     `
+/95             0           0     0     644     15304     `
+/112            0           0     0     644     50760     `
+/123            0           0     0     644     13128     `
+/159            0           0     0     644     8784      `
+/176            0           0     0     644     27280     `

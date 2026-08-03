@@ -1,0 +1,22 @@
+!<thin>
+//                                              288       `
+of_touchscreen.o/
+double_click.o/
+goodix_gt9896/goodix_ts_tools.o/
+goodix_gt9896/goodix_ts_i2c.o/
+goodix_gt9896/goodix_ts_core.o/
+goodix_gt9896/goodix_cfg_bin.o/
+goodix_gt9896/goodix_gtx8_update.o/
+goodix_gt9896/goodix_ts_gesture.o/
+goodix_gt9896/goodix_ts_test.o/
+xiaomi/xiaomi_touch.o/
+/0              0           0     0     644     6624      `
+/18             0           0     0     644     3168      `
+/34             0           0     0     644     22592     `
+/67             0           0     0     644     57080     `
+/98             0           0     0     644     98952     `
+/130            0           0     0     644     24168     `
+/162            0           0     0     644     44080     `
+/198            0           0     0     644     19648     `
+/233            0           0     0     644     93168     `
+/265            0           0     0     644     45288     `

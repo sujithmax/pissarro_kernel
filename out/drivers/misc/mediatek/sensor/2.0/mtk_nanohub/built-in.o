@@ -1,0 +1,17 @@
+!<thin>
+//                                              120       `
+nanohub/main.o/
+nanohub/bl.o/
+nanohub/comms.o/
+nanohub/nanohub-mtk.o/
+mtk_nanohub.o/
+mtk_nanohub_ipi.o/
+sensor_list.o/
+
+/0              0           0     0     644     3616      `
+/16             0           0     0     644     6080      `
+/30             0           0     0     644     6720      `
+/47             0           0     0     644     8248      `
+/70             0           0     0     644     62472     `
+/85             0           0     0     644     6888      `
+/104            0           0     0     644     1488      `

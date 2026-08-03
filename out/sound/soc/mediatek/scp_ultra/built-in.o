@@ -1,0 +1,14 @@
+!<thin>
+//                                              152       `
+ultra_ipi/ultra_ipi.o/
+mtk-scp-ultra-common.o/
+mtk-scp-ultra-pcm.o/
+mtk-scp-ultra-mem-control.o/
+mtk-scp-ultra_dump.o/
+mtk-scp-ultra-platform-driver.o/
+/0              0           0     0     644     7248      `
+/23             0           0     0     644     5224      `
+/47             0           0     0     644     5120      `
+/68             0           0     0     644     6520      `
+/97             0           0     0     644     16176     `
+/119            0           0     0     644     17880     `

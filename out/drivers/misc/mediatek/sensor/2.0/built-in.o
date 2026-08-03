@@ -1,0 +1,18 @@
+!<thin>
+//                                              222       `
+core/hf_manager.o/
+mtk_nanohub/nanohub/main.o/
+mtk_nanohub/nanohub/bl.o/
+mtk_nanohub/nanohub/comms.o/
+mtk_nanohub/nanohub/nanohub-mtk.o/
+mtk_nanohub/mtk_nanohub.o/
+mtk_nanohub/mtk_nanohub_ipi.o/
+mtk_nanohub/sensor_list.o/
+/0              0           0     0     644     42344     `
+/19             0           0     0     644     3616      `
+/47             0           0     0     644     6080      `
+/73             0           0     0     644     6720      `
+/102            0           0     0     644     8248      `
+/137            0           0     0     644     62472     `
+/164            0           0     0     644     6888      `
+/195            0           0     0     644     1488      `

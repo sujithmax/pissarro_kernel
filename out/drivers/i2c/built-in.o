@@ -1,0 +1,16 @@
+!<thin>
+//                                              118       `
+i2c-boardinfo.o/
+i2c-core-base.o/
+i2c-core-smbus.o/
+i2c-core-of.o/
+i2c-mux.o/
+algos/i2c-algo-bit.o/
+busses/i2c-mtk.o/
+/0              0           0     0     644     5288      `
+/17             0           0     0     644     92240     `
+/34             0           0     0     644     44184     `
+/52             0           0     0     644     8520      `
+/67             0           0     0     644     12088     `
+/78             0           0     0     644     12376     `
+/100            0           0     0     644     61800     `

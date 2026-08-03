@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/base/power/dcm_v1/mt6877/built-in.o :=   rm -f drivers/misc/mediatek/base/power/dcm_v1/mt6877/built-in.o; llvm-ar rcSTPD drivers/misc/mediatek/base/power/dcm_v1/mt6877/built-in.o drivers/misc/mediatek/base/power/dcm_v1/mt6877/mtk_dcm_autogen.o drivers/misc/mediatek/base/power/dcm_v1/mt6877/mtk_dcm_internal.o 

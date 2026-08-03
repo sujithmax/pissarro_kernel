@@ -1,0 +1,1 @@
+cmd_drivers/input/misc/aw8697_haptic_k16/haptic.o :=  rm -f drivers/input/misc/aw8697_haptic_k16/haptic.o; llvm-ar rcSTPD drivers/input/misc/aw8697_haptic_k16/haptic.o drivers/input/misc/aw8697_haptic_k16/aw_haptic.o drivers/input/misc/aw8697_haptic_k16/ringbuffer.o drivers/input/misc/aw8697_haptic_k16/aw8697.o drivers/input/misc/aw8697_haptic_k16/aw86927.o 

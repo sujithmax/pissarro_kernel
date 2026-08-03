@@ -1,0 +1,16 @@
+!<thin>
+//                                              142       `
+1.0/reviser_drv.o/
+1.0/reviser_hw.o/
+1.0/reviser_mem.o/
+1.0/reviser_mem_mgt.o/
+1.0/reviser_dbg.o/
+1.0/reviser_export.o/
+mt6877/reviser_reg.o/
+/0              0           0     0     644     17848     `
+/19             0           0     0     644     28224     `
+/37             0           0     0     644     3968      `
+/56             0           0     0     644     20032     `
+/79             0           0     0     644     3376      `
+/98             0           0     0     644     7008      `
+/120            0           0     0     644     1120      `

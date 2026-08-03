@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/adsp/mt6853/../common/built-in.o :=   rm -f drivers/misc/mediatek/adsp/mt6853/../common/built-in.o; llvm-ar rcSTPD drivers/misc/mediatek/adsp/mt6853/../common/built-in.o drivers/misc/mediatek/adsp/mt6853/../common/adsp.o 

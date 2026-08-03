@@ -1,0 +1,14 @@
+!<thin>
+//                                              154       `
+mtk_dbg_fs_common.o/
+mtk_lpm_timer.o/
+mtk_lpm_pwr_gs.o/
+gs/v1/mtk_lpm_pwr_gs_common.o/
+gs/v1/mtk_lpm_pwr_gs_dump_clk.o/
+gs/v1/mtk_lpm_pwr_gs_dump_pmic.o/
+/0              0           0     0     644     12872     `
+/21             0           0     0     644     2432      `
+/38             0           0     0     644     2952      `
+/56             0           0     0     644     1344      `
+/87             0           0     0     644     6320      `
+/120            0           0     0     644     4608      `

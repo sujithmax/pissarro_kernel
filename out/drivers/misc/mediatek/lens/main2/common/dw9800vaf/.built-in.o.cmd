@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/lens/main2/common/dw9800vaf/built-in.o :=   rm -f drivers/misc/mediatek/lens/main2/common/dw9800vaf/built-in.o; llvm-ar rcSTPD drivers/misc/mediatek/lens/main2/common/dw9800vaf/built-in.o drivers/misc/mediatek/lens/main2/common/dw9800vaf/DW9800VAF.o 

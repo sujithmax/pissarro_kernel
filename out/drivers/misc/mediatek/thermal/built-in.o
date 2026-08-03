@@ -1,0 +1,87 @@
+!<thin>
+//                                              1378      `
+mtk_thermal_monitor.o/
+mtk_cooler_shutdown.o/
+mtk_cooler_backlight_cus.o/
+mtk_cooler_flashlight_cus.o/
+mtk_cooler_kshutdown.o/
+mtk_cooler_cam.o/
+common/mtk_thermal_platform.o/
+common/ap_thermal_limit.o/
+common/thermal_zones/mtk_ts_battery.o/
+common/thermal_zones/mtk_ts_bts.o/
+common/thermal_zones/mtk_ts_btsmdpa.o/
+common/thermal_zones/mtk_ts_btsnrpa.o/
+common/thermal_zones/mtk_ts_cpu_noBank.o/
+common/thermal_zones/mtk_ts_pa.o/
+common/thermal_zones/mtk_ts_pa_thput.o/
+common/thermal_zones/mtk_ts_pmic.o/
+common/thermal_zones/mtk_ts_charger.o/
+common/thermal_zones/mtk_ts_quiet.o/
+common/thermal_zones/mtk_ts_ntc.o/
+common/thermal_zones/mtk_ts_flash.o/
+common/thermal_zones/mtk_ts_wifi.o/
+common/thermal_zones/mtk_ts_wmt.o/
+common/thermal_zones/mtk_tsAll.o/
+common/thermal_zones/mtk_ts_imgsensor.o/
+common/coolers/mtk_ta.o/
+common/coolers/mtk_cooler_atm.o/
+common/coolers/mtk_cooler_gpu_cus.o/
+common/coolers/mtk_cooler_char_curr_cus.o/
+common/coolers/mtk_cooler_mutt_gen97.o/
+common/coolers/mtk_cooler_md_cus.o/
+common/coolers/mtk_cooler_dtm.o/
+common/coolers/mtk_cooler_sysrst.o/
+common/mtk_thermal_timer.o/
+mt6877/src/mtk_lvts_tc.o/
+mt6877/src/mtk_tc_wrapper.o/
+mt6877/src/mtk_thermal_ipi.o/
+mt6877/src/mtk_pmic_efuse.o/
+mt6877/src/mtk_ts_6359vcore.o/
+mt6877/src/mtk_ts_6359vproc.o/
+mt6877/src/mtk_ts_6359vgpu.o/
+mt6877/src/mtk_ts_6359tsx.o/
+mt6877/src/mtk_ts_6359dcxo.o/
+
+/0              0           0     0     644     68800     `
+/23             0           0     0     644     16272     `
+/46             0           0     0     644     5160      `
+/74             0           0     0     644     5808      `
+/103            0           0     0     644     6744      `
+/127            0           0     0     644     24368     `
+/145            0           0     0     644     16016     `
+/176            0           0     0     644     24240     `
+/203            0           0     0     644     16592     `
+/242            0           0     0     644     25760     `
+/277            0           0     0     644     26000     `
+/316            0           0     0     644     26008     `
+/355            0           0     0     644     65528     `
+/397            0           0     0     644     21808     `
+/431            0           0     0     644     25232     `
+/471            0           0     0     644     27176     `
+/507            0           0     0     644     20984     `
+/546            0           0     0     644     26912     `
+/583            0           0     0     644     26792     `
+/618            0           0     0     644     26696     `
+/655            0           0     0     644     26640     `
+/691            0           0     0     644     43968     `
+/726            0           0     0     644     92096     `
+/760            0           0     0     644     168872    `
+/801            0           0     0     644     11448     `
+/826            0           0     0     644     99680     `
+/859            0           0     0     644     6328      `
+/896            0           0     0     644     11704     `
+/939            0           0     0     644     51208     `
+/979            0           0     0     644     4872      `
+/1015           0           0     0     644     20440     `
+/1048           0           0     0     644     7944      `
+/1084           0           0     0     644     8008      `
+/1112           0           0     0     644     78504     `
+/1138           0           0     0     644     23024     `
+/1167           0           0     0     644     17904     `
+/1197           0           0     0     644     18800     `
+/1226           0           0     0     644     22240     `
+/1257           0           0     0     644     22240     `
+/1288           0           0     0     644     22208     `
+/1318           0           0     0     644     22168     `
+/1347           0           0     0     644     22208     `

@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/apusys/midware/built-in.o :=   rm -f drivers/misc/mediatek/apusys/midware/built-in.o; llvm-ar rcSTPD drivers/misc/mediatek/apusys/midware/built-in.o drivers/misc/mediatek/apusys/midware/apusys.o 

@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/apusys/sample/sample.o :=  rm -f drivers/misc/mediatek/apusys/sample/sample.o; llvm-ar rcSTPD drivers/misc/mediatek/apusys/sample/sample.o drivers/misc/mediatek/apusys/sample/1.0/sample_drv.o drivers/misc/mediatek/apusys/sample/1.0/sample_inf.o 

@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/connectivity/conninfra/built-in.o :=   rm -f drivers/misc/mediatek/connectivity/conninfra/built-in.o; llvm-ar rcSTPD drivers/misc/mediatek/connectivity/conninfra/built-in.o drivers/misc/mediatek/connectivity/conninfra/conninfra.o 

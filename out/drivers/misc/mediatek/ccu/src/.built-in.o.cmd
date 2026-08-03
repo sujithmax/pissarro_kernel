@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/ccu/src/built-in.o :=   rm -f drivers/misc/mediatek/ccu/src/built-in.o; llvm-ar rcSTPD drivers/misc/mediatek/ccu/src/built-in.o drivers/misc/mediatek/ccu/src/mt6877/built-in.o 

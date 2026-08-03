@@ -1,0 +1,17 @@
+!<thin>
+//                                              168       `
+mediatek/mtk-pmic-wrap.o/
+mediatek/mtk-cmdq-helper.o/
+mediatek/mtk-mbox.o/
+mediatek/mtk_tinysys_ipi.o/
+mediatek/mtk-lpm.o/
+mediatek/mtk-socinfo.o/
+mediatek/socinfo.o/
+
+/0              0           0     0     644     79888     `
+/26             0           0     0     644     115464    `
+/54             0           0     0     644     17152     `
+/75             0           0     0     644     18872     `
+/103            0           0     0     644     6840      `
+/123            0           0     0     644     3432      `
+/147            0           0     0     644     7224      `

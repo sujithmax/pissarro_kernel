@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/base/power/eemgpu_v2/built-in.o :=   rm -f drivers/misc/mediatek/base/power/eemgpu_v2/built-in.o; llvm-ar rcSTPD drivers/misc/mediatek/base/power/eemgpu_v2/built-in.o drivers/misc/mediatek/base/power/eemgpu_v2/mt6877/built-in.o 

@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/pmic/mt6359p/built-in.o :=   rm -f drivers/misc/mediatek/pmic/mt6359p/built-in.o; llvm-ar rcSTPD drivers/misc/mediatek/pmic/mt6359p/built-in.o drivers/misc/mediatek/pmic/mt6359p/v1/built-in.o 

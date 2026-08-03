@@ -1,14 +1,14 @@
 #!/bin/bash
 #
 # Compile script for kernel
-#
+#script modified by sujith 3/8/26-18:10
 
 SECONDS=0
 DATE=$(date '+%Y%m%d-%H%M')
 
 DEVICE="${1:-pissarro}"
 DEFCONFIG="${DEVICE}_defconfig"
-ZIPNAME="BrickedKernel-${DEVICE}-${DATE}.zip"
+ZIPNAME="${DEVICE}-kernel-${DATE}.zip"
 
 echo -e "Building for: $DEVICE\n"
 

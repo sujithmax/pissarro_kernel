@@ -1,0 +1,71 @@
+!<thin>
+//                                              1296      `
+new_arch/utilities/mdla_util.o/
+new_arch/utilities/mdla_ipi.o/
+new_arch/utilities/mdla_profile.o/
+new_arch/utilities/mdla_debug.o/
+new_arch/utilities/mdla_trace.o/
+new_arch/common/mdla_main.o/
+new_arch/common/mdla_power_ctrl.o/
+new_arch/common/mdla_driver.o/
+new_arch/common/mdla_scheduler.o/
+new_arch/common/mdla_ioctl.o/
+new_arch/common/mdla_cmd_proc.o/
+new_arch/interface/mdla_power_ctrl_v1_0.o/
+new_arch/interface/mdla_power_ctrl_v1_x.o/
+new_arch/interface/mdla_cmd_proc_v1_x.o/
+new_arch/interface/mdla_cmd_proc_v1_0.o/
+new_arch/interface/mdla_power_ctrl_v2_0.o/
+new_arch/interface/mdla_cmd_proc_v2_0_sw_sched.o/
+new_arch/interface/mdla_cmd_proc_v2_0_hw_sched.o/
+new_arch/interface/mdla_cmd_proc_v2_0.o/
+new_arch/interface/mdla_cmd_proc_v1_x_sched.o/
+new_arch/platform/mdla_plat_device.o/
+new_arch/platform/rv/mdla_rv.o/
+new_arch/platform/mdla_plat_driver.o/
+new_arch/platform/v1_x/mdla_v1_x.o/
+new_arch/platform/v1_x/mdla_pmu_v1_x.o/
+new_arch/platform/v1_x/mdla_irq_v1_x.o/
+new_arch/platform/v1_x/mdla_sched_v1_x.o/
+new_arch/platform/v2_0/mdla_pmu_v2_0.o/
+new_arch/platform/v2_0/mdla_v2_0.o/
+new_arch/platform/v2_0/mdla_irq_v2_0.o/
+new_arch/platform/v2_0/mdla_sched_v2_0.o/
+new_arch/platform/v1_0/mdla_irq_v1_0.o/
+new_arch/platform/v1_0/mdla_pmu_v1_0.o/
+new_arch/platform/v1_0/mdla_v1_0.o/
+
+/0              0           0     0     644     17016     `
+/32             0           0     0     644     992       `
+/63             0           0     0     644     8448      `
+/98             0           0     0     644     9792      `
+/131            0           0     0     644     17424     `
+/164            0           0     0     644     2256      `
+/193            0           0     0     644     8488      `
+/228            0           0     0     644     10832     `
+/259            0           0     0     644     2128      `
+/293            0           0     0     644     4184      `
+/323            0           0     0     644     3408      `
+/356            0           0     0     644     2024      `
+/399            0           0     0     644     2744      `
+/442            0           0     0     644     5480      `
+/483            0           0     0     644     5392      `
+/524            0           0     0     644     2216      `
+/567            0           0     0     644     6624      `
+/617            0           0     0     644     6104      `
+/667            0           0     0     644     5728      `
+/708            0           0     0     644     6352      `
+/755            0           0     0     644     4072      `
+/793            0           0     0     644     2752      `
+/825            0           0     0     644     4920      `
+/863            0           0     0     644     21312     `
+/899            0           0     0     644     15256     `
+/939            0           0     0     644     5328      `
+/979            0           0     0     644     9624      `
+/1021           0           0     0     644     15920     `
+/1061           0           0     0     644     23320     `
+/1097           0           0     0     644     7928      `
+/1137           0           0     0     644     11800     `
+/1179           0           0     0     644     3984      `
+/1219           0           0     0     644     12136     `
+/1259           0           0     0     644     23040     `

@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/teei/400/teei_fp/built-in.o :=   rm -f drivers/misc/mediatek/teei/400/teei_fp/built-in.o; llvm-ar rcSTPD drivers/misc/mediatek/teei/400/teei_fp/built-in.o drivers/misc/mediatek/teei/400/teei_fp/fp_func.o 

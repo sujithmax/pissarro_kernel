@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/lens/main/common/dw9718saf/built-in.o :=   rm -f drivers/misc/mediatek/lens/main/common/dw9718saf/built-in.o; llvm-ar rcSTPD drivers/misc/mediatek/lens/main/common/dw9718saf/built-in.o drivers/misc/mediatek/lens/main/common/dw9718saf/DW9718SAF.o 
